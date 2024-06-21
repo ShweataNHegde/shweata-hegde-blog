@@ -5,9 +5,6 @@
     <loc>http://localhost:1313/posts/blisc-lessons/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/leave-and-let-live/</loc>
-    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,6 +16,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/leave-and-let-live/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
