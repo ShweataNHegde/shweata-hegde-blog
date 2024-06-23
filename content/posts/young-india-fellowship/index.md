@@ -20,7 +20,7 @@ Currently in life, I'm lost. Having run IndiaAsksWhy and #semanticClimate with s
 And then, a lot happened over the gap year,
 -  I grew as a person. I was a free-bird when I graduated undergrad, but now I know I have responsibilities of myself and family. 
 - I didn't strike the balance between work and life (hence dealing with sickness now). 
-- Flooed by failures and rejections, I lost confidence in myself towards the end of the gap year.
+- Flooded by failures and rejections, I lost confidence in myself towards the end of the gap year.
 
 I'm not hoping for a magic solution from the YIF. But maybe I can connect with people with similar struggles and learn? Figure out what jobs fit me?
 
