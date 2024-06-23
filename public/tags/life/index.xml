@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on Shweata&#39;s Blog</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on Shweata&#39;s Blog</description>
+    <image>
+      <title>Shweata&#39;s Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m a Young India Fellow 2025</title>
+      <link>http://localhost:1313/posts/young-india-fellowship/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/young-india-fellowship/</guid>
+      <description>Yay! I got selected for the Young India Fellowship (YIF) 2025. Taking a gap year after undergrad was risky, but I&amp;rsquo;m happy that it led me to the YIF. In a month&amp;rsquo;s time, I will be back to being a student. Probably for the first time, my education will be worthy of time and investment. What sold YIF for me is an that it&amp;rsquo;s all-in-one package. I&amp;rsquo;m learning history, economics, statistics, astrophysics, climate, leadership, writing, and many other disciplines and skills.</description>
+    </item>
+  </channel>
+</rss>
