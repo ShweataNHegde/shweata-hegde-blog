@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life</title>
@@ -21,10 +21,10 @@
       <description></description>
     </item>
     <item>
-      <title>Ramble</title>
-      <link>http://localhost:1313/tags/ramble/</link>
+      <title>Yif</title>
+      <link>http://localhost:1313/tags/yif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ramble/</guid>
+      <guid>http://localhost:1313/tags/yif/</guid>
       <description></description>
     </item>
   </channel>

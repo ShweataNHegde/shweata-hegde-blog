@@ -3,7 +3,7 @@ author: ["Shweata N. Hegde"]
 title: "A Random Day at BLiSc"
 date: "2023-11-25"
 description: ""
-tags: ["ramble"]
+tags: ["life"]
 ShowToc: true
 cover:
   image: "featured.JPEG"

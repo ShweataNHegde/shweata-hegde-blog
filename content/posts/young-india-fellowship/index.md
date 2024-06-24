@@ -20,17 +20,16 @@ Currently in life, I'm lost. Having run IndiaAsksWhy and #semanticClimate with s
 And then, a lot happened over the gap year,
 -  I grew as a person. I was a free-bird when I graduated undergrad, but now I know I have responsibilities of myself and family. 
 - I didn't strike the balance between work and life (hence dealing with sickness now). 
-- Flooded by failures and rejections, I lost confidence in myself towards the end of the gap year.
+- I was also flooded by failures and rejections, I lost confidence and felt burnt out.
 
 I'm not hoping for a magic solution from the YIF. But maybe I can connect with people with similar struggles and learn? Figure out what jobs fit me?
 
 ## Advice for Myself
 These may sound generic, but to keep reminding myself, some advice:
 - Be open to new people, ideas, and experiences
-- Enjoy the fellowship; be a part of the community
-- Learn, learn, learn
 - Speak up
-- Make mistakes
+- Learn, make mistakes, learn
+- Enjoy the fellowship. Be a part of the community
 - Take care of physical and mental health; eat enough food
 
 Good luck to myself and all my peers from 2025 batch. Let's see if the YIF lives upto its hype.

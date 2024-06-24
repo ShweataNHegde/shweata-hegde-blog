@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Gap Year</title>
+      <link>http://localhost:1313/posts/on-the-gap-year/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/on-the-gap-year/</guid>
+      <description>Exactly a year ago, all my undergrad classmates were hustling to figure out Masters, jobs, etc. I, on the other hand, boldly decided to take a year off with no plans.</description>
+    </item>
     <item>
       <title>I&#39;m a Young India Fellow 2025</title>
       <link>http://localhost:1313/posts/young-india-fellowship/</link>
@@ -34,8 +41,8 @@ As I took the picture, I realised how my time here at the BLiSc campus resembles
       <link>http://localhost:1313/posts/leave-and-let-live/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/leave-and-let-live/</guid>
-      <description>I&amp;rsquo;m in the middle of the exam season. I have an exam in two hours. But here I am, sitting on my bed facing the same pink curtain and the fairy light, reflecting on my time in Room No. 122. In a week, it won&amp;rsquo;t be mine.
-The hostel is close to 70-years-old that means more than 150 people must have stayed in this room before me. I can&amp;rsquo;t help but wonder about the different stories the room holds &amp;ndash; stories that I&amp;rsquo;ll never know.</description>
+      <description>I&amp;rsquo;m in the middle of the exam season. I have an exam in two hours. But here I am, sitting on my bed facing the same pink curtain and the fairy light, reflecting on my time in Room No. 122. In a week, the room won&amp;rsquo;t be mine.
+I couldn&amp;rsquo;t help but wonder about the stories the room holds, stories that I (or anyone who comes next) will never know. The hostel is close to 70 years old, which means more than 150 people lived in this room before me.</description>
     </item>
   </channel>
 </rss>
