@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 06</title>
+      <link>http://localhost:1313/posts/week-06-yif/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/week-06-yif/</guid>
+      <description>Week 06 of the YIF. I have been meaning to document learnings since Week 01, but I never found the time. Including a new habit into your schedule takes effort.
+2024-09-02 Made my CV Today, after struggling for many months to perfect my CV, I finished creating one. I was asked by a professor to share my CV so he could look for a potential PhD advisor if I&amp;rsquo;m interested in pursuing one.</description>
+    </item>
     <item>
       <title>Week 0 | Young India Fellowship</title>
       <link>http://localhost:1313/posts/week-0-yif/</link>
