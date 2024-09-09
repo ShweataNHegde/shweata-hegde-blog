@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Term-01 on Shweata&#39;s Blog</title>
+    <link>http://localhost:1313/tags/term-01/</link>
+    <description>Recent content in Term-01 on Shweata&#39;s Blog</description>
+    <image>
+      <title>Shweata&#39;s Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/term-01/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Term 01| Statistics Individual Assignment</title>
+      <link>http://localhost:1313/posts/term-01-stats-ind-assignment/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/term-01-stats-ind-assignment/</guid>
+      <description>Through the course, I learnt about various statistical tools and concept. But I also explored how to run them in Python. So, it only makes sense for my final report to be an interactive Python file.
+# Import packages from scipy.stats import norm import matplotlib.pyplot as plt import numpy as np import random import seaborn as sns Part A Choose three of the four following statistical tools (A.1 – A.4). For each of your chosen three, write a short response exhibiting your understanding of the tool (250 words maximum each).</description>
+    </item>
+    <item>
+      <title>Week 06</title>
+      <link>http://localhost:1313/posts/week-06-yif/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/week-06-yif/</guid>
+      <description>Week 06 of the YIF. I have been meaning to document learnings since Week 01, but I never found the time. Including a new habit into your schedule takes effort.
+Daily Breakdown 2024-09-02 (Monday) Made my CV After struggling for many months to perfect my CV, I finally finished creating one. I was asked by a professor to share my CV so he could look for a potential PhD advisor if I&amp;rsquo;m interested in pursuing one.</description>
+    </item>
+  </channel>
+</rss>
