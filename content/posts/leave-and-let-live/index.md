@@ -16,4 +16,4 @@ I also raged in anger when the water in the washroom stopped so many times. The 
 
 122, thank you for keeping me sheltered while I brewed crazy plans. My gals, I'm grateful for bearing with me. I cannot imagine my hostel life without you two -- Kir and Nav. 
 
- I've lost and found myself multiple times. I lived my life here, and it's time to leave. The room will hit a lull now. But not for long. The new kids with wild dreams will soon arrive to revive this pink-walled windowless room (yes, there is one broken window) and add to the room's ever-increasing memory.
+I've lost and found myself multiple times. I lived my life here, and it's time to leave. The room will hit a lull now. But not for long. The new kids with wild dreams will soon arrive to revive this pink-walled windowless room (yes, there is one broken window) and add to the room's ever-increasing memory.

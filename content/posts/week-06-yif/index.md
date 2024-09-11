@@ -45,8 +45,11 @@ _Where I would like to be in 5 years. Zoom in to read_
 We had a half a day's session on design thinking. It was fun. I spent the rest of my day working on the individual statistics assignment.
 
 Check out my statistics assignment, [here]().
+
+AND we got to know that our ELM project had been accepted!
+
 ## 2024-09-07 (Saturday)
-I had ELM sessions in the morning, which were semi-useful. We defined our problem statements. We were also given a rough timeline for the term. For the rest of the day, I was immersed in reading Kamaladevi's biography. I'm geninunely in awe with her. I drafted part of the assignment, and called it a day. 
+I had ELM sessions in the morning, which were semi-useful. We were taught how to define our problem statements. We were also given a rough timeline for the term. For the rest of the day, I was immersed in reading Kamaladevi's biography. I'm geninunely in awe with her. I drafted part of the assignment, and called it a day. 
 
 ## 2024-09-08 (Sunday)
 Final assignment submission for term 01. Woke to fire alarm ringing at 0650. Turn out the alarm had malfunctioned. I was going to wake up at 0700 to do finish my assignment anyway, so I didn't lose sleep unintendedly. I started off by adding context to the quotes I had picked from Nico Slate's biography on Kamaladevi. Half way through, I had to stop writing in between to learn how to cite with page numbers. A useful skill. The essay really came together in the last half an hour. I'm happy I managed to make all the arguments although not in the grandier fashion I had imagined in my brain.

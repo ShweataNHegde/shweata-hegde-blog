@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 0 | Young India Fellowship</title>
-      <link>http://localhost:1313/posts/week-0-yif/</link>
+      <link>http://localhost:1313/posts/week-00-yif/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/week-0-yif/</guid>
+      <guid>http://localhost:1313/posts/week-00-yif/</guid>
       <description>How does a missed week feel like? Not great.</description>
     </item>
   </channel>

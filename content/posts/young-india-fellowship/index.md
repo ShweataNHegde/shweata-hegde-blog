@@ -1,6 +1,6 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "I'm a Young India Fellow 2025"
+title: "I'm a Young India Fellow"
 date: "2024-06-21"
 description: ""
 tags: ["life"]
@@ -11,7 +11,7 @@ cover:
   caption: "#Accepted"
   relative: true
 ---
-Yay! I got selected for the [Young India Fellowship (YIF)](https://www.ashoka.edu.in/academic-programme/young-india-fellowship/) 2025. Taking a gap year after undergrad was risky, but I'm happy that it led me to the YIF. In a month's time, I will be back to being a student. Probably for the first time, my education will be worthy of time and investment. What sold YIF for me is an that it's all-in-one package. I'm learning history, economics, statistics, astrophysics, climate, leadership, writing, and many other disciplines and skills. And my peers are fully committed to the Fellowship, it seemed like! During my undergrad, none of us really wanted to learn from our classes. We didn't engage in critical discussions or bother putting any efforts into assignments.
+Yay! I got selected to the [Young India Fellowship (YIF)](https://www.ashoka.edu.in/academic-programme/young-india-fellowship/) 2025. Taking a gap year after undergrad was risky, but I'm happy that it led me to the YIF. In a month's time, I will be back to being a student. Probably for the first time, my education will be worthy of time and investment. What sold YIF for me is an that it's all-in-one package. I'm learning history, economics, statistics, astrophysics, climate, leadership, writing, and many other disciplines and skills. And my peers are fully committed to the Fellowship, it seemed like! During my undergrad, none of us really wanted to learn from our classes. We didn't engage in critical discussions or bother putting any efforts into assignments.
 
 ## Why am I doing YIF?
 

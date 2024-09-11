@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Term-02 on Shweata&#39;s Blog</title>
+    <link>http://localhost:1313/tags/term-02/</link>
+    <description>Recent content in Term-02 on Shweata&#39;s Blog</description>
+    <image>
+      <title>Shweata&#39;s Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/term-02/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 07</title>
+      <link>http://localhost:1313/posts/week-07/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/week-07/</guid>
+      <description>Time is flying! New term from this week. We have two interesting courses, Art Appreciation (by Prof. Anunaya Chaubey) and Shakespeare and the World (Prof. Jonathan Gil Harris and Prof. Madhavi Menon).
+2024-09-09 I had an uncomfortable experience during the first Art Appreciation class. Prof. asked to paint a canvas in an hour, give it a title, make note of challenges and display. I made an embarassingly bad painting. I was almost in tears after looking around and seeing amazing art works.</description>
+    </item>
+  </channel>
+</rss>
