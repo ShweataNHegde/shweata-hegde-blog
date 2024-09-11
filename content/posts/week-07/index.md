@@ -40,3 +40,9 @@ Again, woke up tired and hungry. No choice. Art Appreciation lecture. We looked 
 "Artwork embodies an Intention, which is experienced by Beholder, who uses sensations, knowledge and emotion to generate an artistic experience."
 
 We looked at some case studies: Wind of Sea, Madhubani paintings and Yayomi Kasama's work. 
+
+## Readings 
+
+### [Book] Blood and Beauty
+
+### [Book] Metamorphoses, Ovid
