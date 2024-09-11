@@ -11,15 +11,22 @@
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week 07</title>
-      <link>http://localhost:1313/posts/week-07/</link>
+      <title>Our Emotions Around Languages | Critical Writing Assignment #01</title>
+      <link>http://localhost:1313/posts/cw-on-emotions-and-language-assignment/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cw-on-emotions-and-language-assignment/</guid>
+      <description>Our Emotions Around Languages After living in Mysore (a quiet city in Karnataka) for most of my life, I moved to Bengaluru last year for work. Naturally, I bumped into more non-kannada-speaking folks than usual, and English became my go-to language. Nothing to fret about. All my life I’ve enjoyed speaking in English. I took pride in being fluent in the language at school and even college. I often said I think in English.</description>
+    </item>
+    <item>
+      <title>Week 07 | The Young India Fellowship</title>
+      <link>http://localhost:1313/posts/week-07-yif/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/week-07/</guid>
+      <guid>http://localhost:1313/posts/week-07-yif/</guid>
       <description>Time is flying! New term from this week. We have two interesting courses, Art Appreciation (by Prof. Anunaya Chaubey) and Shakespeare and the World (Prof. Jonathan Gil Harris and Prof. Madhavi Menon).
-2024-09-09 I had an uncomfortable experience during the first Art Appreciation class. Prof. asked to paint a canvas in an hour, give it a title, make note of challenges and display. I made an embarassingly bad painting. I was almost in tears after looking around and seeing amazing art works.</description>
+Daily Breakdown 2024-09-09 I had an uncomfortable experience during the first Art Appreciation class. Prof. asked to paint a canvas in an hour, give it a title, make note of challenges and display. I made an embarassingly bad painting.</description>
     </item>
     <item>
       <title>Term 01| Statistics Individual Assignment</title>
@@ -30,7 +37,7 @@
 # Import packages from scipy.stats import norm import matplotlib.pyplot as plt import numpy as np import random import seaborn as sns Part A Choose three of the four following statistical tools (A.1 – A.4). For each of your chosen three, write a short response exhibiting your understanding of the tool (250 words maximum each).</description>
     </item>
     <item>
-      <title>Week 06</title>
+      <title>Week 06 | The Young India Fellowsship</title>
       <link>http://localhost:1313/posts/week-06-yif/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/week-06-yif/</guid>

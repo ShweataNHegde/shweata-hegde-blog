@@ -3,7 +3,7 @@ author: ["Shweata N. Hegde"]
 title: "Term 01| Statistics Individual Assignment"
 date: "2024-09-08"
 description: ""
-tags: ["life", "term-01"]
+tags: ["assignments", "term-01"]
 ShowToc: true
 ---
 Through the course, I learnt about various statistical tools and concept. But I also explored how to run them in Python. So, it only makes sense for my final report to be an interactive Python file.

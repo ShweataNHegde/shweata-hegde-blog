@@ -14,23 +14,15 @@
     <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week 07</title>
-      <link>http://localhost:1313/posts/week-07/</link>
+      <title>Week 07 | The Young India Fellowship</title>
+      <link>http://localhost:1313/posts/week-07-yif/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/week-07/</guid>
+      <guid>http://localhost:1313/posts/week-07-yif/</guid>
       <description>Time is flying! New term from this week. We have two interesting courses, Art Appreciation (by Prof. Anunaya Chaubey) and Shakespeare and the World (Prof. Jonathan Gil Harris and Prof. Madhavi Menon).
-2024-09-09 I had an uncomfortable experience during the first Art Appreciation class. Prof. asked to paint a canvas in an hour, give it a title, make note of challenges and display. I made an embarassingly bad painting. I was almost in tears after looking around and seeing amazing art works.</description>
+Daily Breakdown 2024-09-09 I had an uncomfortable experience during the first Art Appreciation class. Prof. asked to paint a canvas in an hour, give it a title, make note of challenges and display. I made an embarassingly bad painting.</description>
     </item>
     <item>
-      <title>Term 01| Statistics Individual Assignment</title>
-      <link>http://localhost:1313/posts/term-01-stats-ind-assignment/</link>
-      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/term-01-stats-ind-assignment/</guid>
-      <description>Through the course, I learnt about various statistical tools and concept. But I also explored how to run them in Python. So, it only makes sense for my final report to be an interactive Python file.
-# Import packages from scipy.stats import norm import matplotlib.pyplot as plt import numpy as np import random import seaborn as sns Part A Choose three of the four following statistical tools (A.1 – A.4). For each of your chosen three, write a short response exhibiting your understanding of the tool (250 words maximum each).</description>
-    </item>
-    <item>
-      <title>Week 06</title>
+      <title>Week 06 | The Young India Fellowsship</title>
       <link>http://localhost:1313/posts/week-06-yif/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/week-06-yif/</guid>

@@ -1,6 +1,6 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Week 07"
+title: "Week 07 | The Young India Fellowship"
 date: "2024-09-10"
 description: ""
 tags: ["life", "term-02"]
@@ -8,6 +8,7 @@ ShowToc: true
 ---
 Time is flying! New term from this week. We have two interesting courses, Art Appreciation (by Prof. Anunaya Chaubey) and Shakespeare and the World (Prof. Jonathan Gil Harris and Prof. Madhavi Menon).
 
+# Daily Breakdown
 ## 2024-09-09
 I had an uncomfortable experience during the first Art Appreciation class. Prof. asked to paint a canvas in an hour, give it a title, make note of challenges and display. I made an embarassingly bad painting. I was almost in tears after looking around and seeing amazing art works. I felt even worse because of how I reacted. I wish I was slightly better at dealing with being sucky at something.
 
