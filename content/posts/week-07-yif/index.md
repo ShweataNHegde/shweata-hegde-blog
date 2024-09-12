@@ -35,15 +35,22 @@ I woke up tired and hungry. But no choice. Had to get ready because for the 0930
 Spent the rest of the day on the ISF proposal.
 
 ## 2024-09-11
+Again, woke up tired and hungry. No choice. Art Appreciation lecture. We looked at does one make sense of art. Based on discussions from past two days, we arrived at: "Artwork embodies an Intention, which is experienced by Beholder, who uses sensations, knowledge and emotion to generate an artistic experience."We looked at some case studies: Wind of Sea, Madhubani paintings and Yayomi Kasama's work. 
 
-Again, woke up tired and hungry. No choice. Art Appreciation lecture. We looked at does one make sense of art. Based on discussions from past two days, we arrived at: 
+Shakespeare and the World lecture was super exciting. We discussed Ovid's (Shakespeare's "bro crush") _Metamorphoses_. First, I was blown away by the insights the class had about the literary work. Professor complimented them to make the conversation complete. I enjoyed it. I'm now intrigued by the concept of _Metamorphoses_ -- the chaos, the partition of inseparables by gods and humans, the order, the chaos which follows again, the cycle continues.
 
-"Artwork embodies an Intention, which is experienced by Beholder, who uses sensations, knowledge and emotion to generate an artistic experience."
+<img src = "IMG_3792.jpeg">
 
-We looked at some case studies: Wind of Sea, Madhubani paintings and Yayomi Kasama's work. 
+<img src = "IMG_3793.jpeg">
+
+_Class Notes_
+## 2024-09-12
+Art Appreciation class as usual. We discussed Unifying Classical and Romantic, the reasoning and imagination. In the Critical Writing class, we explored the concept of literacy and distinguished it from literacy rate. We looked at literacy as something which is specific, plural and contextual. Finally, we had our first stage reading of Shakespeare's drama. We finished 3 scenes from The Midsummer Night's Dream.
 
 ## Readings 
 
 ### [Book] Blood and Beauty
 
 ### [Book] Metamorphoses, Ovid
+
+### [Book] Exploring The Everyday

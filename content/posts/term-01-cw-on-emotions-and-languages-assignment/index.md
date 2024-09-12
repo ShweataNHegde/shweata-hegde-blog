@@ -5,7 +5,7 @@ date: "2024-09-11"
 description: ""
 tags: ["assignments"]
 ---
-# Our Emotions Around Languages
+
 After living in Mysore (a quiet city in Karnataka) for most of my life, I moved to Bengaluru last year for work. Naturally, I bumped into more non-kannada-speaking folks than usual, and English became my go-to language. Nothing to fret about. All my life I’ve enjoyed speaking in English. I took pride in being fluent in the language at school and even college. I often said I think in English. I had no issues giving presentations, making points in meetings, or having casual conversations at the workplace.
 
 But after a while, I noticed something. When it came to emotions or describing an incident that moved me, English failed. I found myself reaching out to a specific Kannada word, only to not find an English equivalent. I missed speaking in Kannada. Maybe my brain was not thinking in English after all? It seemed like certain Kannada words and emotions were closely tied and imprinted, which English words could never replace.
