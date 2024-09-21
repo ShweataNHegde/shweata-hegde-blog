@@ -1,7 +1,7 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Week 07 | The Young India Fellowship"
-date: "2024-09-10"
+title: "Week 08 | The Young India Fellowship"
+date: "2024-09-21"
 description: ""
 tags: ["life", "term-02"]
 ShowToc: true
