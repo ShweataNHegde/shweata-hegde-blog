@@ -47,10 +47,25 @@ _Class Notes_
 ## 2024-09-12
 Art Appreciation class as usual. We discussed Unifying Classical and Romantic, the reasoning and imagination. In the Critical Writing class, we explored the concept of literacy and distinguished it from literacy rate. We looked at literacy as something which is specific, plural and contextual. Finally, we had our first stage reading of Shakespeare's drama. We finished 3 scenes from The Midsummer Night's Dream.
 
-## Readings 
+## 2024-09-13
+First ELM day. Went well. We did some logistical work, brainstormed a bit, called it a day.
 
-### [Book] Blood and Beauty
+I attended the session on how to approach Masters application. It was one of the most useful sessions on higher studies I've ever attended. 
 
-### [Book] Metamorphoses, Ovid
+I ended up going to a movie called "Us". It was my first-ever horror movie. Scenes were disturbing. The movie has a really good political message though.
 
-### [Book] Exploring The Everyday
+## 2024-09-14
+Couldn't sleep well. Woke up feeling tired. Feverish towards the afternoon. Chills at night
+
+## 2024-09-15
+Couldn't sleep well. Fever, chills, wisdom tooth ache. Went to the dentist instead of going with the cohort to National Gallery of Modern Art (NGMA). Had an interesting conversation with a YIF alum who happened to come along with me in the ambulance to the dentist. Fell even sicker towards the end of the day.
+
+But everything was slightly more managable because my friend, Arushi, returned to campus after 2 weeeks.
+
+# Readings 
+
+## [Book] Blood and Beauty
+
+## [Book] Metamorphoses, Ovid
+
+## [Book] Exploring The Everyday
