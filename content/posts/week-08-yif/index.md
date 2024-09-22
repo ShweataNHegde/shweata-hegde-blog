@@ -19,8 +19,27 @@ Slept all day again. Felt slightly better. It was interesting how my life was ju
 Finally went to a class! Art Appreciation. We discussed MC Escher and Penrose's tessellations which I found to be fascinating. I remembered Peter talking about Escher's work. Got a book from the library called The Joy of Science (has been a joyful read). Read the book, spoke to Peter and called it a day. It was good to be back to being almost normal.
 
 ## 2024-09-20
-Read the book, wrote emails, have started to think about my career steps, ...
+ELM Day 03. Had a refreshing start to the day: read The Joy of Science and wrote to my old mentor Gitanjali Yadav. I have also started to think about my career and thoughts ruminate in the back of my mind.
 
+Later in the afternoon, the ELM Team, Pralay, met to discuss the insights from our secondary research and prepared for the bi-weekly office hour.
+
+I went to a Rasberry Pi workshop in the evening hosted by a society at the University. I felt bit out of place amidst the undergrads in the beginning, but I settled in as we went on. We worked with Pico W. We were introduced to various pins on the board and what they do. There was something satisfying in writing a line of code and visually see the LED glowing.
+
+<img src = 'IMG_3848.jpeg'>
+
+_In-frame: Pinout sheet, bread board, the OLED screen and code on my laptop to turn on the screen_
+
+## 2024-09-21
+We had the office hour with ELM faculty, which went well. The team later met to discuss the aesthetics of the game.
+
+I went to the second half of the Rasberry Pi workshop. We tried recreating the Pong game, but only got till getting to move the paddle up and down.
+
+<img src = 'pi-paddle.png'>
+
+_In-frame: Potentiometer connected to Pico Pi. Paddle on the OLED screen moving up and down based on the Potentiometer's resistance. (Screenshot from a video taken)_
+
+Evening, I read the book and slept early.
 
 # Readings
 ## [Book] The Joy of Science
+A fantastic book on how and why to adapt scientific method in our daily lives. It encapsulates the thoughts I had when we started IndiaAsksWhy or when I wrote my Self-Designed Project pitch, except that the author is 100 times better at making his arguments.
