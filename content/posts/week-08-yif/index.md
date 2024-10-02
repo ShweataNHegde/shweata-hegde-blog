@@ -16,7 +16,7 @@ Repeat of Monday. Spent a lot of time talking to Karthik and scrolling on phone.
 Slept all day again. Felt slightly better. It was interesting how my life was just about surviving one day at a time. I also discovered that social media has changed a lot since I last checked in. I stumbled across a lot of regional 'content creators'. Gone are the days where there was little Indian representation online.
 
 ## 2024-09-19
-Finally went to a class! Art Appreciation. We discussed MC Escher and Penrose's tessellations which I found to be fascinating. I remembered Peter talking about Escher's work. Got a book from the library called The Joy of Science (has been a joyful read). Read the book, spoke to Peter and called it a day. It was good to be back to being almost normal.
+Finally went to a class! Art Appreciation. We discussed MC Escher's tessellations, which I found to be fascinating. I remembered Peter talking about Escher's work. Got a book from the library called The Joy of Science (has been a joyful read). Read the book, spoke to Peter and called it a day. It was good to be back to being almost normal.
 
 ## 2024-09-20
 ELM Day 03. Had a refreshing start to the day: read The Joy of Science and wrote to my old mentor Gitanjali Yadav. I have also started to think about my career and thoughts ruminate in the back of my mind.
