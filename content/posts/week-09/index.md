@@ -24,7 +24,7 @@ What else happened? AC broke down. I slept at around 0200 one day. That was fun,
 
 During the weekend, I took interviews as a part of ELM. I've learnt so much more about games and sustainability initatives that exists already. Talking to as many people early on in the project helps in addressing some obvious but overlooked loopholes in the solution in the initial phase. However, it also confuses you because of conflicting opinions you hear.
 
-AND, most importantly, I went out to Delhi for the first time. This something I wrote on the Metro:
+AND, most importantly, I went out to Delhi for the first time. I was supposed to go out with Arushi, but Arjun said he had time. This something I wrote on the Metro:
 
 ---
 Baby's Day Out, Delhi Edition. 
@@ -34,3 +34,7 @@ For the first time in two months, I managed to get out of Ashoka. Every time I t
 I met a friend of mine, Arjun, for the first time at Hauz Khas. I had my YIF friends to guide me to the metro station, it wasn't hard. I got a bit nervous when I had to wait almost an hour at Hauz Khas metro for my friend to turn up. We went to Naivedyam for lunch. Decent Uttampam and great Chutney. Post lunch, We roamed around Hauz Khas village. We checked out a vintage poster shop, Chumbak, Minisou, and an art gallery. Awkwardness lingered for a while, but we got along well. We learnt more about each other. Spoke a bit about YIF and his work.
 
 The experience of going out (minus the meeting part) was disorienting. Everything around me -- the stores, the roads, the people, the train, the station -- seemed familiar. Yet I felt paralysed. I felt like I did not know how to interact with my surroundings. Adding to the feeling was that I was not hearing South Indian languages anymore. Made me feel even more out of place, scared almost. It was like I was re-learning how to be human.
+
+<img src = "IMG_3913.jpeg">
+
+_Random street in Haus Khas Village_
