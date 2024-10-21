@@ -20,3 +20,20 @@ Back to back classes in the evening. I had fun learning about ethnography. We di
 
 ## 2024-10-02
 Finally got the time to write updates on this blog and think about what to make for my final presentation. I had a tough conversation with Karthik; brain is a bit messed up.
+
+_The log is being written on 2024-10-20 i.e., 18 days later_
+
+Later that day, I attended an origami workshop and had my first jam session at Ashoka. We sang Hindustani and Carnatic. I had fun. 
+
+## Later that week
+We read Layla and Majnun and followed it up with a classroom discussion. I remember feeling empathetic towards Majnun, the mad man. It was a really good introduction to Sufi literature. 
+
+As a part of YIF Mentorship Programme, I wrote an Expression of Interest to have Prof. Vijayraghavan as my mentor. He agreed. I'm excited.
+
+Friday and Saturday, we did some world-building for climate game. We played a game called Civilisation for inspiration.
+
+Saturday, I submitted the application to Science Journalism Association of India's conference happening in Dec. 2024.
+
+On Sunday, I had made my final canvas for my Art Appreciation course. I adapted an Islamic geometric pattern. It was therapeutic to draw circles and lines, and paint the shapes. I almost forgot about the misting while painting and had to run out with incomplete painting. Later, we conducted a comic making hour; we had finalised to work on comics for Art Appreciation group assignment. 
+
+<img src = "IMG_4009.jpg">
