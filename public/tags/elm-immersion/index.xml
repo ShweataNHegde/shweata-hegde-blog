@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elm-Immersion on Shweata&#39;s Blog</title>
+    <link>http://localhost:1313/tags/elm-immersion/</link>
+    <description>Recent content in Elm-Immersion on Shweata&#39;s Blog</description>
+    <image>
+      <title>Shweata&#39;s Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.3</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/elm-immersion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 13| The Young India Fellowship</title>
+      <link>http://localhost:1313/posts/week-13/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/week-13/</guid>
+      <description>2024-10-21 Woke up early today. Journalled, showered, worked on the Critical Wriitng researched project and journalled even more. The website has finally caught up to the present day. Having been deep into Climate Game work, our ELM team took a break from work, so I spent my time on Chevening application. Drafting these essays is hard. Sometimes you feel great looking at your past work summarised, and at other times you feel stuck, doubting yourself.</description>
+    </item>
+  </channel>
+</rss>

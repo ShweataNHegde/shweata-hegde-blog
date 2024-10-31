@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yif on Shweata&#39;s Blog</title>
-    <link>http://localhost:63526/tags/yif/</link>
+    <link>http://localhost:1313/tags/yif/</link>
     <description>Recent content in Yif on Shweata&#39;s Blog</description>
     <image>
       <title>Shweata&#39;s Blog</title>
-      <url>http://localhost:63526/images/papermod-cover.png</url>
-      <link>http://localhost:63526/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
     <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63526/tags/yif/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/yif/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Gap Year</title>
-      <link>http://localhost:63526/posts/on-the-gap-year/</link>
+      <link>http://localhost:1313/posts/on-the-gap-year/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63526/posts/on-the-gap-year/</guid>
+      <guid>http://localhost:1313/posts/on-the-gap-year/</guid>
       <description>In July 2022, all my undergrad classmates were hustling to figure out Masters, jobs, etc. On the other hand, I boldly decided to take a year off. No plans. A year for myself.
 Thus the adventurous journey began, journey that took me to 5 big cities, and taught me life and career lessons. I am documenting experiences here for the future me to look back on.
 Gandhinagar, Curiosity Conference First trip of the gap year.</description>
