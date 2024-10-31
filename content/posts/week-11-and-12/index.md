@@ -1,6 +1,6 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Week 11| The Young India Fellowship"
+title: "Week 11 and 12| The Young India Fellowship"
 date: "2024-10-20"
 description: ""
 tags: ["life", "term-02"]
