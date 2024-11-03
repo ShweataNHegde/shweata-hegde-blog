@@ -55,3 +55,5 @@ _Me writing a letter_
 We were exhausted by the time we came back. I showered, ate dinner and slept after arguing with Karthik.
 ## 2024-10-27
 I woke up late. Got out of my room to attend this super cool sound engineering workshop. I washed my hair and tried working on the Chevening application. I got sidetracked by the STEM Quiz. Our team did miserably. I worked on the application and called it a day.
+
+I felt a major FOMO missing out on Anoop's (my cousin) wedding. It happened in Mysore, would have made it easily if I were in Karnataka.
