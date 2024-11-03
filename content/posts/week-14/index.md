@@ -35,6 +35,10 @@ I had yet another Office Hours with CWC. It has been very useful to think out lo
 
 The rest of the day was spent lazing around watching Kara and Nate, writing the essays in bits and pieces, and talking to Karthik.
 
+<img src = "IMG_4265.jpeg">
+
+_Reading my essays_
+
 ## 2024-10-31 -- Start of Deepavali Break
 The campus felt very empty. In fact, there were only three people on my floor who stayed back on campus for Deepavali. I started my day with the "Study in the UK" essay. It took quite some time to research about the shortlisted courses and write something concise. I took the afternoon off to join the reading session hosted by the leftover cohort on campus. I read a chapter of the book, "Understanding Comics", but spent the majority of the time socialising and listening to stories from people. It was relaxing.
 
@@ -54,6 +58,10 @@ Abi arrived in the evening, welcomed her to room. The evening was spent on the n
 
 ## 2024-10-03
 Brings us to today. Spent the morning reading the tiny book on Big Data. Read about the plight of Warehouse workers (a recommended reading for NGIA) and am now at the library. I will work on the application, the essay due for NGIA, and read.
+
+<img src = "IMG_4316.jpg">
+
+_View From 2nd Floor of HDFC Library_
 
 ## Readings
 
