@@ -15,9 +15,9 @@ First day of Term 03. We had to back-to-back lectures. Woke up early, made it to
 
 _Model of Economy_
 
-NGIA was interesting, too. We discussed China's social credit system and surveillance. The course is taught by Prof. Debayan Gupta, it is a bit hard to keep up with him as he throws out ideas and readings. But I can see the course being fun.
+NGIA was interesting, too. We discussed China's social credit system and surveillance. The course is taught by Prof. Debayan Gupta. It is a bit hard to keep up with him as he throws out ideas and readings. But I can see the course being fun.
 
-I had Office Hours with Centre for Writing and Communication (CWC) to discuss my application on which I had made decent progress, before going to the concert by Amit Chaudari hosted for the YIF cohort. Later in the day, I myself perfomed at the Broadway-themed open mic. I performed Let It Go from Frozen. I was reminded of countless times my sister and I have sung this song together. It was special to sing this song to an energetic audience.
+I had Office Hours with Centre for Writing and Communication (CWC) to discuss my application on which I had made decent progress, before going to the concert by Amit Chaudari hosted for the YIF cohort. Later in the day, I myself perfomed at the Broadway-themed open mic. Singing Let It Go from Frozen reminded of countless times my sister and I have sung this song together. It was special to sing this song to an energetic audience.
 
 I came back, worked on the application and slept late after fixing the argument with Karthik.
 
