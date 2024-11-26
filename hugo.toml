@@ -28,7 +28,7 @@ weight = 1
 [[languages.en.menu.main]]
 name = "Archive"
 url = "archives"
-weight = 5
+weight = 30
 
 [[languages.en.menu.main]]
 name = "Search"
@@ -39,6 +39,11 @@ weight = 10
 name = "Tags"
 url = "tags/"
 weight = 10
+
+[[languages.en.menu.main]]
+name = "Assignments"
+url = "assignments/"
+weight = 7
 
 [[languages.en.menu.main]]
 name = "Personal Website"
