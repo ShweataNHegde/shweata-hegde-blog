@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/assignments/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-03-ngia-essay-01/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-03-ngia-essay-02/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-03-ngia-essay-03/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/term-03/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/life/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/term-03/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/week-15-16-and17/</loc>
@@ -35,6 +50,15 @@
     <loc>http://localhost:1313/posts/week-11-and-12/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/draft/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-02-art-app-final-essay/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-02-art-app-final-painting/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/week-10/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,12 +68,6 @@
     <loc>http://localhost:1313/posts/week-08-yif/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/assignments/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/assignments/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/assignments/term-01-cw-on-emotions-and-languages-assignment/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,9 +75,6 @@
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/assignments/term-01-stats-group-assignments/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/assignments/term-02-art-app-final-painting/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/term-01/</loc>
@@ -73,9 +88,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/week-06-yif/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/draft/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/week-00-yif/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
