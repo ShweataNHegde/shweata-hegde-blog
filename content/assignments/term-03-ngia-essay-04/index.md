@@ -1,6 +1,6 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Term 03 | The New Geography of Information Age | Extension Notes 04: Anti-vaxxers---Where Are They'" 
+title: "Term 03 | The New Geography of Information Age | Extension Notes 04: Anti-vaxxers---Where Are They" 
 date: "2024-11-17"
 description: ""
 tags: ["assignments", "term-03"]

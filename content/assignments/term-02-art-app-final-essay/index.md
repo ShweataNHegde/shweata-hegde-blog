@@ -6,7 +6,7 @@ description: ""
 tags: ["draft", "assignments", "term-02"]
 ShowToc: true
 ---
-_**“To develop a complete mind: Study the science of art; study the art of science. Learn how to see. Realize that everything connects to everything else.” - Leonardo Da Vinci_**
+_“To develop a complete mind: Study the science of art; study the art of science. Learn how to see. Realize that everything connects to everything else.” - Leonardo Da Vinci_
 
 As a non-artist in biology classes, I was always in awe of botany and zoology professors who drew detailed diagrams of, let’s say, a dissected flower part or insect organ on the chalkboard. The professors captured all the details a photograph would, except that the diagram was better at spotlighting the key characteristics of the specimen. To draw such a detailed diagram, one observes patiently and records — skills valuable to any researcher. Therefore, as biology students, we were encouraged to draw, even if we didn’t come with the skillset of an artist.
 
