@@ -6,10 +6,6 @@ description: "Desperate attempt to make the blog up-to date"
 tags: ["life", "term-03"]
 ShowToc: true
 ---
-Here is the grammar-corrected version of your excerpt:
-
----
-
 Yet another break. No matter how much I try to be consistent, the YIF schedule gets in the way. Let me try to recount some important events.
 
 ## Smog Takeover
