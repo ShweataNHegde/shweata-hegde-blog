@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Term-05 on Shweata&#39;s Blog</title>
+    <link>http://localhost:1313/tags/term-05/</link>
+    <description>Recent content in Term-05 on Shweata&#39;s Blog</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/term-05/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 22| The Young India Fellowship and Home</title>
+      <link>http://localhost:1313/posts/catch-up-2025/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/catch-up-2025/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
