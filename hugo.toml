@@ -2,7 +2,7 @@ baseURL = 'https://shweata-hegde-blog.netlify.app/'
 languageCode = 'en-us'
 title = "Shweata's Blog"
 theme = "PaperMod"
-paginate = 5
+pagination.pagerSize = 5
 
 enableInlineShortcodes = true
 enableRobotsTXT = true
@@ -52,7 +52,7 @@ url = "https://shweata-hegde.netlify.app/"
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
-[params]
+[Site.params]
 env = "production"
 description = "Shweata's blog page"
 author = "Shweata"

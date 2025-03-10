@@ -4,22 +4,26 @@
     <title>Break on Shweata&#39;s Blog</title>
     <link>http://localhost:1313/tags/break/</link>
     <description>Recent content in Break on Shweata&#39;s Blog</description>
-    <image>
-      <title>Shweata&#39;s Blog</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.126.3</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/break/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On 2024</title>
+      <link>http://localhost:1313/posts/on-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/on-2024/</guid>
+      <description>&lt;p&gt;2024&amp;mdash;the year full of turbulence. After crusing through 2022 and 2023, 2024 felt like a reality check. When I look back on the year, I only see disappointments, rejections, fights, poor health and lost confidence. However, all of the experiences have also taught me life lessons. Hopefully, as a result, I find myself more resilient in the years to come.&lt;/p&gt;
+&lt;p&gt;I spent the first half of the year doing applications, getting rejections and some acceptances. It was stressful to balance work at TIGS and write compelling applications. TIGS sadly never was a fertile ground for my ideas to grow. I felt undervalued and I couldn&amp;rsquo;t deliver my best either. The experience overall made me doubt whether I would make a good science communicator. I also fell sick in March and I never felt healthy since then. After many deliberations I decided to the Young India Fellowship. I was unsure if it was going to be useful and whether I would be able to manage the workload. Giving up my dream of doing a Masters abroad was hard, too.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Week 22| The Young India Fellowship and Home</title>
       <link>http://localhost:1313/posts/week-22/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/week-22/</guid>
-      <description>had one of the most colorful weeks of 2024. December was indeed an interesting curveball I wasn&amp;rsquo;t expecting.
-2024-12-22 The last day of Organizational Dynamics. It started at 09:30. The lectures were boring, honestly. In the afternoon, we were given the final group assignment to express our learnings from the course through a creative piece. Although I was initially hesitant, I ended up dancing with the group. It was definitely a memorable experience, and I am super grateful to my team.</description>
+      <description>&lt;p&gt;had one of the most colorful weeks of 2024. December was indeed an interesting curveball I wasn&amp;rsquo;t expecting.&lt;/p&gt;
+&lt;h2 id=&#34;2024-12-22&#34;&gt;2024-12-22&lt;/h2&gt;
+&lt;p&gt;The last day of Organizational Dynamics. It started at 09:30. The lectures were boring, honestly. In the afternoon, we were given the final group assignment to express our learnings from the course through a creative piece. Although I was initially hesitant, I ended up dancing with the group. It was definitely a memorable experience, and I am super grateful to my team.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

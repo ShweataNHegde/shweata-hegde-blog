@@ -4,12 +4,7 @@
     <title>Series on Shweata&#39;s Blog</title>
     <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Shweata&#39;s Blog</description>
-    <image>
-      <title>Shweata&#39;s Blog</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.126.3</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>

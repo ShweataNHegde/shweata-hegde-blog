@@ -5,17 +5,17 @@ date: "2024-12-30"
 tags: ["life", "break"]
 ShowToc: true
 ---
- had one of the most colorful weeks of 2024. December was indeed an interesting curveball I wasn't expecting.
+I had one of the most colorful weeks of 2024. December was indeed an interesting curveball I wasn't expecting.
 
 ## 2024-12-22
-The last day of Organizational Dynamics. It started at 09:30. The lectures were boring, honestly. In the afternoon, we were given the final group assignment to express our learnings from the course through a creative piece. Although I was initially hesitant, I ended up dancing with the group. It was definitely a memorable experience, and I am super grateful to my team.
+The last day of Organizational Dynamics. It started at 0930. The lectures were boring, honestly. In the afternoon, we were given the final group assignment to express our learnings from the course through a creative piece. Although I was initially hesitant, I ended up dancing with the group. It was definitely a memorable experience, and I am super grateful to my team.
 
 <img src="IMG_3079.JPG">
 The day became exhausting as we continued with lectures and the final activity of expressing gratitude to each other. The class became incredibly noisy, which made me leave earlier. I also had to pack to go back home. Packing didn’t take as long. Pravin was around as I packed, so it wasn’t a boring activity either. However, the worst part came when I couldn’t sleep. I had dreamed of going home almost every day since the second month of staying at Ashoka. The day had finally arrived...
 
 # Going back home...
 ## 2024-12-23
-I woke up at 04:30 and got out of bed at 05:15. I was pooling a cab with a fellow Fellow, Jahnavi. My flight was at 11:45. We reached Delhi airport surprisingly early at 07:15. After security, I stopped by Carnatic Cafe for Masale Dose. It was yum. After a quick round of shopping, I napped for a bit before heading to my gate. The flight ride was quiet. I only regretted not getting my neck pillow. But my anticipation of returning home made me restless, and I wouldn’t have slept well anyway.
+I woke up at 0430 and got out of bed at 0515. I was pooling a cab with a fellow Fellow, Jahnavi. My flight was at 11:45. We reached Delhi airport surprisingly early at 0715. After security, I stopped by Carnatic Cafe for Masale Dose. It was yum. After a quick round of shopping, I napped for a bit before heading to my gate. The flight ride was quiet. I only regretted not getting my neck pillow. But my anticipation of returning home made me restless, and I wouldn’t have slept well anyway.
 
 After landing, I felt overjoyed reading "Bengaluru Airport" written in Kannada. As I stepped out and took my first breath, I couldn’t help but smile under my mask. Distance does make you grow fonder of your homeland.
 
@@ -73,7 +73,7 @@ The only full day at Kadnamane. I had Tellevu for breakfast immediately after wa
 
 It felt really nice to slow down, unwind, and relive my summer holiday routine. I was constantly hit by nostalgia almost every minute I was there.
 
-<img src = 'IMG_4809.jpeg">
+<img src = "IMG_4809.jpeg">
 
 <img src = "IMG_4819.jpeg">
 
@@ -84,9 +84,9 @@ It felt really nice to slow down, unwind, and relive my summer holiday routine. 
 <img src = "IMG_4910.jpeg">
 
 ## 2024-12-29  
-After waking up, having Tellevu for breakfast, showering, and packing, I left for Muttige, my maternal grandparents' place. There, I met my uncle and aunt and another set of grandparents. I felt nostalgia while helping them with lunch and eating together. Soon, it was time to leave. The ride to the train station was quick. We were 20 minutes early.
+After waking up, I  had Tellevu for breakfast, showere, packed, and  left for Muttige, my maternal grandparents' place. There, I met my uncle and aunt and another set of grandparents. I felt nostalgia again while helping them with lunch and eating together. Sadly, it was time to leave. The ride to the train station was quick. We were 20 minutes early.
 
-The journey back was boring. I was glued to my seat the whole time. The train was full. A lot of drama happened around me over seat exchanges. Dad picked me up from the station. Came home, showered, ate, wished K. a happy birthday, and slept.
+The journey back was boring. I was glued to my seat the whole time. The train was full. A lot of drama unfolded around me regarding seat exchanges. Dad picked me up from the station. Came home, showered, ate, wished K. a happy birthday, and slept.
 
 ## Readings
 - [Paper] Kankaria, S. and Chakraborty, A. (2024). Scientific temper: towards an alternate model of science-society relationships JCOM 23(04), Y03. https://doi.org/10.22323/2.23040403

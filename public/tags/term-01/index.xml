@@ -4,12 +4,7 @@
     <title>Term-01 on Shweata&#39;s Blog</title>
     <link>http://localhost:1313/tags/term-01/</link>
     <description>Recent content in Term-01 on Shweata&#39;s Blog</description>
-    <image>
-      <title>Shweata&#39;s Blog</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.126.3</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/term-01/index.xml" rel="self" type="application/rss+xml" />
@@ -18,31 +13,48 @@
       <link>http://localhost:1313/assignments/term-01-leadership-assignments/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/assignments/term-01-leadership-assignments/</guid>
-      <description>One of the assignments was to make a video about ourself. I was quite apprehensive at first. But I realised it&amp;rsquo;s a good practice to concisely tell a story about yourself. This is my attempt at telling a story about how I got into science communication.</description>
+      <description>&lt;p&gt;One of the assignments was to make a video about ourself. I was quite apprehensive at first. But I realised it&amp;rsquo;s a good practice to concisely tell a story about yourself. This is my attempt at telling a story about how I got into science communication.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/u5gpWx6yQP4?si=jGN61-DxEP5tDXFP&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Term 01 | Statistics Group Assignments</title>
       <link>http://localhost:1313/assignments/term-01-stats-group-assignments/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/assignments/term-01-stats-group-assignments/</guid>
-      <description>Over the course, we had 4 group assignments, which required us to use statistical tools like z-score, t-test, chi-squared test, etc in various scenarios. I decided to use Python to do all analyses. Looking back, it was a nice way to practice coding while also learning new concepts.
-Notebook Links Assignment 01 (Kilgore Production Analysis): https://gist.github.com/ShweataNHegde/a4203e663b0f1cea6cb9c52e35258a1c Assignment 02 (Pronto Delivery): https://gist.github.com/ShweataNHegde/abd7b814af4c16cd376747fdf35f2dac Assignment 03 (Cyril Burt: Fraud or Not?): https://gist.github.com/ShweataNHegde/d421bb33b3f77c06b8023d179266b55a Assignment 04 (Teachers Fraud?</description>
+      <description>&lt;p&gt;Over the course, we had 4 group assignments, which required us to use statistical tools like z-score, t-test, chi-squared test, etc in various scenarios. I decided to use Python to do all analyses. Looking back, it was a nice way to practice coding while also learning new concepts.&lt;/p&gt;
+&lt;h2 id=&#34;notebook-links&#34;&gt;Notebook Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Assignment 01 (Kilgore Production Analysis): &lt;a href=&#34;https://gist.github.com/ShweataNHegde/a4203e663b0f1cea6cb9c52e35258a1c&#34;&gt;https://gist.github.com/ShweataNHegde/a4203e663b0f1cea6cb9c52e35258a1c&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 02 (Pronto Delivery): &lt;a href=&#34;https://gist.github.com/ShweataNHegde/abd7b814af4c16cd376747fdf35f2dac&#34;&gt;https://gist.github.com/ShweataNHegde/abd7b814af4c16cd376747fdf35f2dac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 03 (Cyril Burt: Fraud or Not?): &lt;a href=&#34;https://gist.github.com/ShweataNHegde/d421bb33b3f77c06b8023d179266b55a&#34;&gt;https://gist.github.com/ShweataNHegde/d421bb33b3f77c06b8023d179266b55a&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 04 (Teachers Fraud?): &lt;a href=&#34;https://gist.github.com/ShweataNHegde/1f3f824c37a1a0ddd37ab7f4271c2746&#34;&gt;https://gist.github.com/ShweataNHegde/1f3f824c37a1a0ddd37ab7f4271c2746&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Term 01| Statistics Individual Assignment</title>
       <link>http://localhost:1313/assignments/term-01-stats-ind-assignment/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/assignments/term-01-stats-ind-assignment/</guid>
-      <description>Through the course, I learnt about various statistical tools and concept. But I also explored how to run them in Python. So, it only makes sense for my final report to be an interactive Python file.
-# Import packages from scipy.stats import norm import matplotlib.pyplot as plt import numpy as np import random import seaborn as sns Part A Choose three of the four following statistical tools (A.1 – A.4). For each of your chosen three, write a short response exhibiting your understanding of the tool (250 words maximum each).</description>
+      <description>&lt;p&gt;Through the course, I learnt about various statistical tools and concept. But I also explored how to run them in Python. So, it only makes sense for my final report to be an interactive Python file.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Import packages&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;scipy.stats&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;norm&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;matplotlib.pyplot&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;plt&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;numpy&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;np&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;random&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;seaborn&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;sns&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;part-a&#34;&gt;Part A&lt;/h1&gt;
+&lt;p&gt;Choose three of the four following statistical tools (A.1 – A.4). For each of your chosen three, write a short response exhibiting your understanding of the tool (250 words maximum each).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 06 | The Young India Fellowsship</title>
       <link>http://localhost:1313/posts/week-06-yif/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/week-06-yif/</guid>
-      <description>Week 06 of the YIF. I have been meaning to document learnings since Week 01, but I never found the time. Including a new habit into your schedule takes effort.
-Daily Breakdown 2024-09-02 (Monday) Made my CV After struggling for many months to perfect my CV, I finally finished creating one. I was asked by a professor to share my CV so he could look for a potential PhD advisor if I&amp;rsquo;m interested in pursuing one.</description>
+      <description>&lt;p&gt;Week 06 of the YIF. I have been meaning to document learnings since Week 01, but I never found the time. Including a new habit into your schedule takes effort.&lt;/p&gt;
+&lt;h1 id=&#34;daily-breakdown&#34;&gt;Daily Breakdown&lt;/h1&gt;
+&lt;h2 id=&#34;2024-09-02-monday&#34;&gt;2024-09-02 (Monday)&lt;/h2&gt;
+&lt;h3 id=&#34;made-my-cv&#34;&gt;Made my CV&lt;/h3&gt;
+&lt;p&gt;After struggling for many months to perfect my CV, I finally finished creating one. I was asked by a professor to share my CV so he could look for a potential PhD advisor if I&amp;rsquo;m interested in pursuing one. I used &lt;a href=&#34;https://joinsuperset.com/&#34;&gt;Superset CV builder&lt;/a&gt;. Although it was clunky (with edit widget being too small and it taking forever to load), it helped me format my CV and restrict it to a page. I don&amp;rsquo;t know if I&amp;rsquo;ve done a good job at describing my work experience. We were asked to use the PAR Framework (Problem-Action-Result), but I got to lazy and copy-pasted details from my older resumes and modified a bit for consistency.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
