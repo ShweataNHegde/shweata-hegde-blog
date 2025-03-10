@@ -34,4 +34,4 @@ After the Friends of YIF, we were back to Term 05 classes. Exactly a week later,
 ## ELM Immersion Week (2025-02-20 to 2025-03-01)
 The immersion was not so stressful. We worked mainly on design of the board game and aesthetic. Slow but steady progress. Nothing too fancy. I tried but failed preparing for Chevening. I also tried drafting my Inlaks application, and could not make much progress on it either. It is what it is.
 
-NThat covers it all, I think. It took me roughly an hour to write, not too bad. Not many images to add. Might find some later.
+That covers it all, I think. It took me roughly an hour to write, not too bad. Not many images to add. Might find some later.
