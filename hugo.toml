@@ -86,9 +86,7 @@ images = [ "images/papermod-cover.png" ]
   [params.homeInfoParams]
   Title = "Shweata's Blog"
   Content = """
-👋 Welcome to my blog page! I'm Shweata. I like to write and talk about science; build websites and open source tools.
-
-I always wanted a corner on the internet where I document the way I perceive the world, keep track of learnings (science-y stuff, and maybe life lessons), and ramble. I have lost track of the number of failed attempts to set up a blog site. Let's see if this website sticks around.
+👋 Welcome to my blog page! I'm Shweata. I like to write and talk about science; build websites and open source tools. I always wanted a corner on the internet where I document the way I perceive the world, keep track of learnings (science-y stuff, and maybe life lessons), and ramble. I have lost track of the number of failed attempts to set up a blog site. Let's see if this website sticks around.
 """
 
   [[params.socialIcons]]
