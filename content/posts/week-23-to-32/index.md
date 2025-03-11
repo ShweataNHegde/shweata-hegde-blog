@@ -1,6 +1,6 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Week 23 to Week 32"
+title: "Week 23 to Week 32 | Young India Fellowship"
 date: "2025-03-10"
 tags: ["life", "term-04", "term-05"]
 ShowToc: true

@@ -1,7 +1,7 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Week 33 | The Young India Fellowship and Home"
-date: "2025-03-10"
+title: "Week 33 | The Young India Fellowship"
+date: "2025-03-11"
 tags: ["life", "term-06"]
 ShowToc: true
 ---
