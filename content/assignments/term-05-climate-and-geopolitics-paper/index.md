@@ -53,6 +53,7 @@ However, even while communicating in English, there are several hurdles. Often, 
 ## Conclusion
 <img src = "terrible-diagram.png">
 Fig. (B to D) The spatial distributions of bias-corrected ensemble averaged 30-year TWmax for each GHG scenario: HIST (1976–2005) (B), RCP4.5 (2071–2100) (C), and RCP8.5 (2071–2100) (D) (Im et al.). I would like to end the essay with these maps predicting a hot and humid future. They show that almost all of India would experience maximum wet bulb temperature at least once if the emissions are not curbed or only moderately mitigated (Im et al.). I cannot help but stare at this grim future and feel frustrated that not many people in my country know what the future holds for generations to come. However, a slow but steady progress towards dialogue-based open climate communication in the Indian context, backed by social science research offers hope. Modifying this famous quote by Sir Mark Walport (ex-director of Wellcome Trust UK), “Science is not complete until it is communicated”, I would say the climate crisis will never be solved until it is communicated.
+
 ## Works Cited
 “Climate Change in the Indian Mind, 2023.” Yale Program on Climate Change Communication, climatecommunication.yale.edu/publications/climate-change-in-the-indian-mind-2023/toc/2/.
 
