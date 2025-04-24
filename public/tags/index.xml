@@ -6,12 +6,12 @@
     <description>Recent content in Tags on Shweata&#39;s Blog</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life</title>
       <link>http://localhost:1313/tags/life/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/life/</guid>
       <description></description>
     </item>
@@ -37,6 +37,13 @@
       <description></description>
     </item>
     <item>
+      <title>Assignments</title>
+      <link>http://localhost:1313/tags/assignments/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/assignments/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Break</title>
       <link>http://localhost:1313/tags/break/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -48,13 +55,6 @@
       <link>http://localhost:1313/tags/term-03/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/term-03/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Assignments</title>
-      <link>http://localhost:1313/tags/assignments/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/assignments/</guid>
       <description></description>
     </item>
     <item>

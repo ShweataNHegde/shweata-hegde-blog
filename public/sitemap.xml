@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/chevening-preparation-2025/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/life/</loc>
-    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/term-06/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
@@ -28,6 +31,15 @@
   </url><url>
     <loc>http://localhost:1313/posts/week-23-to-32/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/assignments/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-05-climate-and-geopolitics-paper/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/break/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -46,12 +58,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/week-18/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/assignments/</loc>
-    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/assignments/</loc>
-    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/assignments/term-03-ngia-essay-07/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
@@ -148,8 +154,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/leave-and-let-live/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/assignments/term-05-climate-and-geopolitics-paper/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
