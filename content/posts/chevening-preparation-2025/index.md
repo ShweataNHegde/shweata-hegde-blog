@@ -14,7 +14,7 @@ This week, finally, there is momentum in my preparation. I have written to two C
 <img src = "IMG_5767.jpg">
 
 ## 2025-04-24
-I wasn't deligient enough to keep track of my preparations here. But I gained momentum in that one month. I spoke to Peter everyday, almost. I reached out to 10s of Chevening Scholars, and took notes. I was all prepared, but...
+I wasn't diligent enough to keep track of my preparations here. But I gained momentum in that one month. I spoke to Peter everyday, almost. I reached out to 10s of Chevening Scholars, and took notes. I was all prepared, but...
 
 The first interview question on conflict stumped me. I stammered, and did not give a coherent enough answer. I picked back up from the second question on, but then, I could not answer all the questions in the way I had planned :(
 
