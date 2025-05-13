@@ -7,6 +7,7 @@ tags: ["assignments", "term-05"]
 ShowToc: true
 ---
 For my final term assignment for the Climate and Geopolitics course at the Young India Fellowship, I was doing some readings about the likelihood of exceeding the maximum wet-bulb temperature (the measure of the combination temperature and humidity) due to anthropogenic climate change. The papers were technical, however, I knew enough scientific jargon to grasp the apocalypse predicted. One of the papers read, “under RCP8.5, a small fraction of the South Asian population (~4%) is projected to experience TWmax [maximum wet bulb temperature] exceeding 35°C by 2100. However, approximately 75% of the population is projected to experience TWmax exceeding 31°C, considered dangerous levels for most humans…” (Im et al.). This made me wonder: Are the people living in the regions-to-be-affected aware of the future they are about to face, let alone be prepared? Worse, “the geographical locations of the most extreme projected heat waves in the Indus and Ganges river valleys coincide largely with locations of highly vulnerable human populations in terms of population density, gross domestic product (GDP) per capita, and agricultural intensity” (Im et al.). How does one even talk about future projections when these vulnerable communities have more immediate problems of livelihood and survival to deal with in the present? 
+
 This made me realise that while climate science, politics, and diplomacy are complex, communicating complexities to a diverse audience is a problem in itself.
 
 ## Approaching the Problem of Communication
@@ -52,6 +53,7 @@ However, even while communicating in English, there are several hurdles. Often, 
 
 ## Conclusion
 <img src = "terrible-diagram.png">
+
 Fig. (B to D) The spatial distributions of bias-corrected ensemble averaged 30-year TWmax for each GHG scenario: HIST (1976–2005) (B), RCP4.5 (2071–2100) (C), and RCP8.5 (2071–2100) (D) (Im et al.). I would like to end the essay with these maps predicting a hot and humid future. They show that almost all of India would experience maximum wet bulb temperature at least once if the emissions are not curbed or only moderately mitigated (Im et al.). I cannot help but stare at this grim future and feel frustrated that not many people in my country know what the future holds for generations to come. However, a slow but steady progress towards dialogue-based open climate communication in the Indian context, backed by social science research offers hope. Modifying this famous quote by Sir Mark Walport (ex-director of Wellcome Trust UK), “Science is not complete until it is communicated”, I would say the climate crisis will never be solved until it is communicated.
 
 ## Works Cited
