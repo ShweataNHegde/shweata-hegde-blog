@@ -1,6 +1,6 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Term 06 | Op-Ed | Need for a Science Policy Discourse in Formal Research Spaces" 
+title: "Term 06 | Op-Ed | India's Foreign Policy | Need for a Science Policy Discourse in Formal Research Spaces" 
 date: 2025-05-13
 description: ""
 tags: ["assignments", "term-06"]

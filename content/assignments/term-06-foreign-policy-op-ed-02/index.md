@@ -1,6 +1,6 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Term 06 | Op-Ed | Wildlife To Bring Together India and Pakistan?" 
+title: "Term 06 | Op-Ed | India's Foreign Policy | Wildlife To Bring Together India and Pakistan?" 
 date: 2025-05-13
 description: ""
 tags: ["assignments", "term-06"]

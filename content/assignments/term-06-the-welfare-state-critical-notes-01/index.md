@@ -1,0 +1,16 @@
+---
+author: ["Shweata N. Hegde"]
+title: "Term 06 | The Welfare State | Critical Reading Notes On Right to Healthcare in Times of Universal Health Coverage" 
+date: 2025-05-13
+description: ""
+tags: ["assignments", "term-06"]
+ShowToc: true
+---
+At my previous workplace, I was involved in public health communication for rare genetic diseases. Our team’s table read of the National Policy for Rare Diseases (NPRD), 2021, exposed me to the intricacies of India’s present-day healthcare system. We had extensive discussions about how essential services—such as genetic counseling, newborn screening, and early detection of non-communicable diseases—should be part of the Primary Health Care (PHC) system. Adding to these conversations was The India Forum article, [Right to Healthcare in Times of Universal Health Coverage](https://www.theindiaforum.in/health/right-healthcare-times-universal-health-coverage), which gave me a framework to think about and possibly reimagine the healthcare system.
+
+Guided by the pillars of the healthcare framework—Right to Healthcare and Universal Health Coverage—the article argues “for states to reorient and reorganize their health systems, consciously and foundationally based on a comprehensive primary healthcare approach.” Although I am speaking for an edge case of rare genetic diseases, the comprehensive approach is essential to ensure equitable healthcare for patients. For example, if PHCs are equipped, both in terms of knowledge and resources, to diagnose rare genetic diseases (RGDs) in patients, it would significantly reduce the average diagnosis period (currently seven years) and ensure equitable access to treatment, which would not be restricted to affluent individuals. Therefore, we cannot have PHCs that only “cover some aspects of reproductive health services and a few disease control programs while the rest are left to private markets.”
+
+The article highlights challenges with the pillars themselves. Health rights are liable to be used to expand the entitlements of the rich, and universal coverage has come to be predominantly associated with public financing of private provision and big pharma rather than strengthening public health systems to ensure access for all. This critical point made me question who the actual beneficiaries of universal coverage and health rights are. I know of certain Patient Advocacy Groups (PAGs) fighting in court to secure the insufficient ₹20 lakhs promised by NPRD for their children. However, the article highlights the other side of the coin, where “pharmaceutical companies have been found to have had an active role in bringing right to health cases to court.” Are these health schemes emulating a sort of cash transfer between the government and big private entities?
+
+Finally, the questions I am left with are: How do we prioritise building a comprehensive primary health care system, when there are resource constraints and advantage-seekers? How do we define rights and coverage in a way that closes these gaps and ensures that the welfare state benefits only its citizens?
+ 
