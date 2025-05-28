@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Shweata&#39;s Blog</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Term-07</title>
+      <link>http://localhost:1313/tags/term-07/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/term-07/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Assignments</title>
       <link>http://localhost:1313/tags/assignments/</link>
@@ -20,20 +34,6 @@
       <link>http://localhost:1313/tags/term-06/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/term-06/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>http://localhost:1313/tags/life/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/life/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Term-07</title>
-      <link>http://localhost:1313/tags/term-07/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/term-07/</guid>
       <description></description>
     </item>
     <item>
