@@ -6,7 +6,7 @@ tags: ["life", "term-08"]
 ShowToc: true
 ---
 
-Term 08 started and ended; before I even realised. The term was filled with anticipation, undertainity, feeling resistant to change and gratefulness.
+Term 08 started and ended; before I even realised. The term was filled with anticipation, uncertainity, resisting change and gratefulness.
 
 Both the electives---Exploring The Universe and Great Ideas, Hard Numbers---were brilliant courses. Although slightly stressful at times, I enjoyed working on the assignments. Lectures were great fun, too. I asked the most number of questions in this final term.
 

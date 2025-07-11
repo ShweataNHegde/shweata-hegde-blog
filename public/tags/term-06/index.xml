@@ -6,8 +6,27 @@
     <description>Recent content in Term-06 on Shweata&#39;s Blog</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/term-06/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Term 08 | Great Ideas, Hard Numbers | All coding assignments</title>
+      <link>http://localhost:1313/assignments/term-08-great-ideas-hard-numbers/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/assignments/term-08-great-ideas-hard-numbers/</guid>
+      <description>&lt;p&gt;This was a fun course with a fun professor. As a part of our group assignments, we had some interesting quantiative projects. Here are links to them:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Migration in India:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fermi Estimations:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Shortcomings of Literacy Rate:
+&lt;a href=&#34;https://github.com/ShweataNHegde/literacy-data/blob/main/literacy_v2.ipynb&#34;&gt;https://github.com/ShweataNHegde/literacy-data/blob/main/literacy_v2.ipynb&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>Term 06 | Can Scientific Temperament Help Build a Better Welfare State?</title>
       <link>http://localhost:1313/assignments/term-06-the-welfare-state/</link>
