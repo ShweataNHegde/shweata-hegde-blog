@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/term-08/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/week-49/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/assignments/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/assignments/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/assignments/term-07-language-politics-02/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/assignments/term-07-language-politics-01/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/assignments/term-08-astronomy-trip-to-planetarium/</loc>
@@ -29,17 +35,17 @@
     <loc>http://localhost:1313/tags/term-06/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/assignments/term-07-language-politics-02/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-07-language-politics-01/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/assignments/term-07-sustainable-development/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/term-07/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/term-08/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/week-48/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
