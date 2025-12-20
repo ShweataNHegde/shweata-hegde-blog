@@ -1,8 +1,8 @@
 ---
 author: ["Shweata N. Hegde"]
+title: "Places Visited 2025 | UK Edition"
 date: "2025-12-20"
-title: "Places Visited So Far"
-tags: "London"
+tags: ["London"]
 ---
 I have seen more of London than any other city. Cambridge comes close second. Here is a dyanmic list of places I Have visited so far in 2025. The list includes universities, cafes, stores, etc. Not too common ones like M&S, of course. Hopefully, this list grows more in the coming year.
 
