@@ -17,7 +17,7 @@ The train was rather empty, unlike the evening trains where you are lucky to eve
 
 The plan for the day was to head to The Fitzwilliam Museum first, spend time browsing artworks before heading home to Peter’s place. Later in the evening, we were attending The Royal Institution Christmas Lecture’s Dress rehearsals (which for many science communicators is a dream!). An exciting day was ahead of us, despite the gloomy and wet weather.
 
-### The Fitzwilliam Museum
+### 1111-- The Fitzwilliam Museum
 I arrived earlier than Peter (well I cheated by taking the bus instead of walking). After dropping our bags in the storage, we headed to the cafe where we spent close to an hour chatting away about #semanticClimate’s funding collaborations and my science communication summer work placement. Some very sweet cake and chai latte accompanied us.
 
 ### 1230-- Exploring
@@ -74,12 +74,13 @@ It was still pissing down when we stepped out. We briefly pitstopped at Fitsbill
 
 Finally, we left to the Cambridge station. Peter gave me some useful advice, some were a bit critical and I did not know how to take them. Took a slow train back to London. Met Karin and Dan after 2 weeks, ate dinner and went to bed.
 
-## 2025-12-19--Day At Home
+## 2025-12-19-- Day At Home
+
 After a packed few days, I decided to stay back at home and work. Got some back-ups from term 01, wrote for a bit, and read the book.
 
 Melancholy of the 19th hit me.
 
-## 2025-12-20--Day With Coincidence
+## 2025-12-20-- Day With Coincidence
 I spent the morning backing-up one of the other modules. After contemplating for some time, I decided to give Wellcome Collection another shot (after the previous disaster). But, it was a beautiful sunny day, and I chose to be brave.
 
 And life could not have it better. I bumped into Meghna, a YIF-cum-Chevening scholar. She was with another YIF, Ameek. We connected over science communication. I spent three hours co-working. I finally got myself to update this blog, and make a draft LinkedIn post.
