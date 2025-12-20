@@ -4,33 +4,32 @@ title: "Places Visited 2025 | UK Edition"
 date: "2025-12-20"
 tags: ["London"]
 ---
-I have seen more of London than any other city. Cambridge comes close second. Here is a dyanmic list of places I Have visited so far in 2025. The list includes universities, cafes, stores, etc. Not too common ones like M&S, of course. Hopefully, this list grows more in the coming year.
+I have seen more of London than any other city. Cambridge comes close second. Here is a dyanmic list of places I have visited so far in 2025. The list includes universities, cafes, stores, etc. Not too common ones like M&S, of course. Hopefully, this list grows more in the coming year.
 
 ## September 2025
-1. Brixton Market and Village
-2. Natural History Museum
-3. Science Museum
-4. Imperial College London, of course
-5. Brixton library
+1. Brixton Market and Village, Brixton
+2. Natural History Museum, South Kensington
+3. Science Museum, South Kensington
+4. Imperial College London, South Kensington (of course!)
+5. Brixton library, Brixton
 
 ## October 2025
 
-2. South Kensington Bookstore
-3. Muji; Oxford Circus
-4. Uniqlo; Oxford Circus
-5. Natural History Museum
-6. Anasuya’s place in Catford
-7. King’s Cross St Pancras (the bar)
-8. Cambridge (Finally at Peter’s place!)
-9. Fen Ditton via River Cam
-10. Francis Crick Institute (Hasok Chang’s talk)
+2. South Kensington Bookstore, South Kensington
+3. Muji, Oxford Circus
+4. Uniqlo, Oxford Circus
+6. Anasuya’s place, Catford
+7. The bar, King’s Cross St Pancras
+8. Peter’s place, Cambridge (finally!)
+9. The Plough, Fen Ditton via River Cam
+10. Francis Crick Institute, King's Cross (Hasok Chang’s talk)
 11. ExCeL London (Chevening Orientation)
-12. Big Ben
-13. London Eye
-14. London Bridge
-15. Goodenough College
-16. University College London (Open Access Week event)
-17. Barbican Theatre (T.M Krishna’s concert!)
+12. Big Ben, London
+13. London Eye, London
+14. London Bridge, London
+15. Goodenough College, Russell Square
+16. University College London, Euston (Open Access Week event)
+17. Barbican Theatre, City of London (T.M Krishna’s concert!)
 18. London School of Economics (Public Understanding of Science Talk)
 19. University of London Student Bar (Blah Halloween)
 
@@ -49,12 +48,12 @@ I have seen more of London than any other city. Cambridge comes close second. He
 12. Waterstones, Picadilly (best book store ever!)
 
 ## December 2025
-1. The Department Store
-2. The Wellcome Library
+1. The Department Store, Brixton
+2. The Wellcome Library, Euston
 3. Smith Square Hall, Westminster
 4. The Fitzwilliam Museum, Cambridge
 5. The Technology Museum, Cambridge
 6. The Wren Library, Trinity College
 7. Quaker's Meeting Room, Cambridge
-8. The Whipple Museum of History of Science
+8. The Whipple Museum of History of Science, Cambridge
 9. Cambridge Botanic Gardens, Cambridge
