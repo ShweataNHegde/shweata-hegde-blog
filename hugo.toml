@@ -46,8 +46,8 @@ url = "assignments/"
 weight = 7
 
 [[languages.en.menu.main]]
-name = "Personal Website"
-url = "https://shweata-hegde.netlify.app/"
+name = "Portgolio"
+url = "https://shweata-hegde-portfolio.netlify.app/"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
