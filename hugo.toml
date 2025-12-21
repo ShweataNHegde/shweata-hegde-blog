@@ -46,7 +46,7 @@ url = "assignments/"
 weight = 7
 
 [[languages.en.menu.main]]
-name = "Portgolio"
+name = "Portfolio"
 url = "https://shweata-hegde-portfolio.netlify.app/"
 
 [outputs]
