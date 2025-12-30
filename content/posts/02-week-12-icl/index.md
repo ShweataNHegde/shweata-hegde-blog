@@ -67,7 +67,7 @@ _Monet and Peter_
 
 The museum was quite exquisite, too. Marble pillars, detailed high ceilings, and the amazing spiral staircase lined by statues in the entrance. The whole museum felt like a palace or a mansion with the staircase being the entrance with different rooms filled with specific kinds of art. Of course, some spaces had furniture like chairs, chest drawers, which added to the more home-like feeling.
 
-<img src = "IMG_9083.jpeg">
+<img src = "IMG_9093.jpeg">
 
 _The ceiling_
 
