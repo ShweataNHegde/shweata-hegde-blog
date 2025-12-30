@@ -98,4 +98,4 @@ After a quick pit stop at Trafalgar Square (disappointing Christmas tree honestl
 
 _Trafalgar Square Christmas Tree_
 
-End of week.
+Between spending time with Karin and Dan, therapy, and going out, I started to feel better, gained back the confidence I had lost in myself. I am still a work in progress, but we are getting there.
