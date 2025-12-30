@@ -1,0 +1,23 @@
+---
+author: ["Shweata N. Hegde"]
+title: "Week 13 | Christmas in London and Personal Life Crisis"
+date: "2025-12-30"
+tags: ["london"]
+---
+Oh my gosh, what a whirlwind of a week! There were so many firsts: big personal crisis, Christmas celebration, therapy session, family dinner. I cannot even begin to describe them. I have learnt so much about life, myself, fate, and choices.
+
+One main takeaway is on trust. Trust is personal and intuitive, but it is also a funny phenomenon. Your intituition can never always know when it breaks. How to ensure people do not deceive the trust? Yet you cannot not trust anyone, nor can you blindly trust everyone. Where to draw lines? I thought my intuition had honed enough to avoid tricky situtions, clearly not. In this semi-public journal, I do not yet feel comfortable sharing the personal incident from the week.
+
+Instead, I will attempt to capture my first-ever Christmas celebration experience. Karin, whose lovely home I live in, decided on the morning of 24th December that we should get a Christmas tree and decorate home. Although I had barely slept the previous night, I tagged along. We walked past The Department Store to reach this street Chirstmas tree vendor. We were on a lookout for a small tree, but all we saw were three giant trees. And, to our utter surprise, the vendor said they were free! Without wasting a minute, we chose the smallest of the three and started carrying it back home. Not having partaken in many attention-seeking activities, I felt out-of-place, but not for long. Karin started telling people how we procured the tree, sharing laughter with people. As I was started to feel tired, we met Dan at the signal. I was happy to hand the tree over to him, and be the spectator of this event myself.
+
+After getting the tree home, we immediately got to decorating. We gathered baubles and lights. We chopped off the tree to fit the stand, and opened the tree up. The tree looked absolutely beautiful; like an archetypal Christmas tree. After many deliberations on where to place each decorations, we were finally done by early evening. It was soon time for our first Christmas eve dinner with Karin's old friends. The pie the guests had made was wonderful; the best I have eaten. Karin's potato salad was nice as well. The conversations were enjoyable, although it revolved mostly around British politics and pop culture. My knowledge of either isn't the best, I admit. Tired, I slept early.
+
+I woke up for a bright sunny Christmas day. Presents had appeared magically under the tree. I contributed mine. We opened them in the morning together. Karin and Dan gifted me two wonderful books: Anne Tyler's _The Accidental Tourist_ and George Orwell's collection of essays. I sat for a little longer after opening gifts to soak in the sun, enjoy my black coffee, listen to some Mozhart, and read one of the books.
+
+I wish I could sit, listen and read forever, but I had agreed to help make Mince Pies. We all gathered downstairs in the kitchen and slowly set up an efficient production line. I mostly filled the mince meat into the pastry Karin rolled. Dan added the top layer and egged them. Then, all we had to do was to wait for them to bake in the oven! It was a lovely communal activity.
+
+We left home immediately after. Karin and Dan were going to a friend's place for their Chirstmas meal and so was I. Since public transport is shut on Christmas day, we drove into Central London. London was so scenic basking in the winter sun. After they dropped me off, I walked through Russell Square, past the British museum, to reach my friend's place. The walk was one of the those moments, which made me extremely aware of where in the world I was. In London, all by myself, doing my Master's.
+
+I had lunch at my freind's place, which was quite nice. I also made more friends. I wrote to some close people, but had to leave the friend's place after an incident. Luckily, Karin and Dan picked me up on their way back. I was extremely anxious given what had happened, but being around them really helped. We took the Waterloo bridge back and got to see all the popular attractions including London Eye, St. Paul Cathedral, etc.
+
+26th December, I fully crashed. I was at my lowest as I processed the incident at my friend's place. I spoke to Arushi first. But, I finally decided to reach out for support and speak to a counsellor. I am glad I did. I spoke to this lovely Columbian lady who patiently listened to me, asked meaningful questions and offered advice. It is because of her that I know see the incident as life's learning lesson rather than still agonising over it. The only bright moment from the day was when I made myself omelette for the first time.
