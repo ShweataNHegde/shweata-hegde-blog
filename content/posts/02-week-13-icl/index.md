@@ -8,7 +8,15 @@ Oh my gosh, what a whirlwind of a week! There were so many firsts: big personal 
 
 One main takeaway was on trust. Trust is personal and intuitive, but it is also a funny phenomenon. Your intuition can never always know when it breaks. Neither can you not trust anyone, nor can you blindly trust everyone. How to ensure people do not deceive the trust? I thought my intuition had honed enough to avoid tricky situations, clearly not. In this semi-public journal, I do not yet feel comfortable sharing the personal incident from the week.
 
-Instead, I will attempt to capture my first-ever Christmas celebration experience. Karin, whose lovely home I live in, decided on the morning of 24th December that we should get a Christmas tree and decorate home. Although I had barely slept the previous night, I tagged along. We walked past The Department Store to reach this street Christmas tree vendor. We were on a lookout for a small tree, but we only saw were three giant trees left. But, to our utter surprise, the vendor said they were free! Without wasting a minute, we chose the smallest of the three and started carrying it back home. Not having partaken in many attention-seeking activities, I felt out-of-place, but not for long. Karin started telling people how we procured the tree, sharing laughter with people. As I was starting to feel tired, we met Dan at the signal. I handed the tree over and became the spectator of this event myself.
+Instead, I will attempt to capture my first-ever Christmas celebration experience. 
+
+The week started with the Royal Institution’s Chemistry of a Candle lecture I attended with Wannes. Wannes made for a really good company, and the lecture was engaging and informative, almost theatrical. It felt like I was attending a magic show, but it was a science lecture.
+
+<img src = “IMG_9324.jpeg”>
+
+_Chemistry of a Candle Lecture demonstration_ 
+
+Karin, whose lovely home I live in, decided on the morning of 24th December that we should get a Christmas tree and decorate home. Although I had barely slept the previous night, I tagged along. We walked past The Department Store to reach this street Christmas tree vendor. We were on a lookout for a small tree, but we only saw were three giant trees left. But, to our utter surprise, the vendor said they were free! Without wasting a minute, we chose the smallest of the three and started carrying it back home. Not having partaken in many attention-seeking activities, I felt out-of-place, but not for long. Karin started telling people how we procured the tree, sharing laughter with people. As I was starting to feel tired, we met Dan at the signal. I handed the tree over and became the spectator of this event myself.
 
 <img src = "snh-karin-christmas-tree.jpeg">
 
@@ -97,5 +105,6 @@ After a quick pit stop at Trafalgar Square (disappointing Christmas tree honestl
 <img src = "IMG_9495.jpeg">
 
 _Trafalgar Square Christmas Tree_
+
 
 Between spending time with Karin and Dan, therapy, and going out, I started to feel better, gained back the confidence I had lost in myself. I am still a work in progress, but we are getting there.
