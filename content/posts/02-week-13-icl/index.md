@@ -12,7 +12,8 @@ Instead, I will attempt to capture my first-ever Christmas celebration experienc
 
 The week started with the Royal Institution’s Chemistry of a Candle lecture I attended with Wannes. Wannes made for a really good company, and the lecture was engaging and informative, almost theatrical. It felt like I was attending a magic show, but it was a science lecture.
 
-<img src = “IMG_9324.jpeg”>
+
+<img src = "IMG_9324.jpeg">
 
 _Chemistry of a Candle Lecture demonstration_ 
 
