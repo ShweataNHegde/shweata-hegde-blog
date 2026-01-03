@@ -1,8 +1,8 @@
 ---
-title: “On Phone Calls To Parents”
-date: “2026-01-03”
-author: [“Shweata N. Hegde”]
-tags: [“life”]
+title: "On Phone Calls To Parents"
+date: "2026-01-03"
+author: ["Shweata N. Hegde"]
+tags: ["life"]
 ---
 
 The ritual of talking to parents has been part of my daily routine since I moved out of home for my undergraduate studies. It is usually a less than 5-minute phone call where mum or dad checks in to ask how I am doing and mostly give advice.
