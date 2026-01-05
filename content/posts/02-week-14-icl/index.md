@@ -1,7 +1,7 @@
 ---
-author: [“Shweata N. Hegde”]
-title: “Week 14 | More Christmas markets, New Year, New Hopes”
-date: “2025-12-30”
+author: ["Shweata N. Hegde"]
+title: "Week 14 | More Christmas markets, New Year, New Hopes"
+date: "2026-01-05”
 tags: [“london”]
 ---
 Week 14 probably was the first time I fully enjoyed being in London. From visiting more Christmas markets to having a relaxed New Year’s Eve, I felt very refuelled by the end of the week.
@@ -22,7 +22,7 @@ New Year’s Day has always been a day where I don’t do anything. I read the b
 
 Getting back to my day. I spent the afternoon with Arushi. It was one of the most wholesome conversations we have had in a long time. We asked each other questions which she had found on Instagram. It is insane how well we know each other. Whenever she said something about me, I was vigorously nodding head, and I believe she did the same, too. One things that stood to me was how we react when we are angry. She said, I am a placid lake (all I do is feel disappointed), whereas she is like falling snow (she keeps ranting like tweety). We also spoke a lot about other fellows, friendship, etc. Three hours passed; we could have spoken for many more hours.
 
-I spent the evening reflecting and planning, which made me feel more in control of my life. Karin, Dan, and I celebrated the evening by making ourselves Brandy Hot Chocolate, watching the fireworks from the window and the screen, and reflecting together.
+I spent the evening reflecting and planning, which made me feel more in control of my life. I felt more hoepful by the end of it. Karin, Dan, and I celebrated the evening by making ourselves Brandy Hot Chocolate, watching the fireworks from the window and the screen, and reflecting together.
 
 ## 2026-01-01
 
