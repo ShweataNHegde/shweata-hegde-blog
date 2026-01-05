@@ -1,13 +1,12 @@
 ---
 author: ["Shweata N. Hegde"]
-title: "Week 14 | More Christmas markets, New Year, New Hopes"
-date: "2026-01-05”
-tags: [“london”]
+title: "Week 14 | Christmas Markets, New Year, New Hope"
+date: "2026-01-05"
+tags: ["london"]
 ---
-
 Week 14 probably was the first time I fully enjoyed being in London. From visiting more Christmas markets to having a relaxed New Year’s Eve, I felt very refuelled by the end of the week.
 
-## 2025-12-29
+## 2025-12-29
 
 I hosted Chandana, a Chevening scholar from Mysore, at my place. She was a bit jittery, as she had just left her family. We went to Central London to see Christmas lights. I took her to Regent’s Street, which has my favourite Christmas lights. We got to sit in the front row of the double-deck bus to see the lights! We also walked the Oxford Street. She left earlier than expected, but I made my way to Covent Garden Christmas market. The market was extremely crowded; interestingly, I wasn’t bothered by it. The tree and the bells were magnificent. The independent stores outside the market and the stalls in the market were cute as well. I got some socks for Wannes, Arushi and me. I also got myself these leaves earrings (now that I think of it, I should have bought the golden ones instead of silver, oh well). What I enjoyed the most was the vibe and live music. I sang my heart out and it felt really really good!
 
@@ -17,7 +16,7 @@ I wished Karthik for his birthday. He is managing okay, I think.
 
 As usual, I had my omelette and left for Wellcome Collection Reading Room in the afternoon. After a productive reading and writing session, I left to see the Battersea Power station Christmas market. Firstly, I was surprised by how un-London like Battersea felt. The whole urban design and infrastructure looked modern and Singapore-like: high rise apartments, urban community spaces, etc. The market itself was scattered and small. I wandered through the mall and spent the most time at the grocery store. However, towards the end of the day, I started feeling a bit jittery because the experience felt too new to me. In the end, I was glad I was back at a familiar place: home.
 
-## 2025-12-31
+## 2025-12-31
 
 New Year’s Day has always been a day where I don’t do anything. I read the book all morning. The Accidental Tourist has been absolutely wonderful! This book is exactly what I needed: the imperfections of human condition portrayed beautifully through fiction. The story also feels relatable. The book follows a divorced man who has lost his son. He embody’s me in wanting to have a system, desiring to have structure in life. His divorce also happens simply because it happens. In his case, there is no big fight or misunderstanding between him and his wife. They just fall out over time. This is how my relationship with K. ended too. Even if I wreck my brain, I cannot think of one concrete reason for breaking up. There was no big fight, hatred, nothing. It happened.
 
@@ -25,7 +24,7 @@ Getting back to my day. I spent the afternoon with Arushi. It was one of the mos
 
 I spent the evening reflecting and planning, which made me feel more in control of my life. I felt more hoepful by the end of it. Karin, Dan, and I celebrated the evening by making ourselves Brandy Hot Chocolate, watching the fireworks from the window and the screen, and reflecting together.
 
-## 2026-01-01
+## 2026-01-01
 
 I woke up fairly late and spent the morning reading the book. In the afternoon, I hosted a friend, Marina. Our home was messy; we are packing up to move houses in the coming month. Marina spent a few hours. We had our first proper conversation after having spent many months in class together. She is fun to talk to! I also learnt about the River Thames wavy nature, which means North and South of London are sometimes adjacent to each other. Mind blown!
 
