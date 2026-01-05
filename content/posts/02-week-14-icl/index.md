@@ -4,6 +4,7 @@ title: "Week 14 | More Christmas markets, New Year, New Hopes"
 date: "2026-01-05”
 tags: [“london”]
 ---
+
 Week 14 probably was the first time I fully enjoyed being in London. From visiting more Christmas markets to having a relaxed New Year’s Eve, I felt very refuelled by the end of the week.
 
 ## 2025-12-29
