@@ -37,7 +37,7 @@ As usual, I had my omelette and left for Wellcome Collection Reading Room in the
 
 _My new staple food: Omelette_
 
-<img src = "IMG_96328.jpeg">
+<img src = "IMG_9628.jpeg">
 
 _My new fav workspace: Wellcome Collection_
 
