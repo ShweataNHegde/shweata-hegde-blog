@@ -10,7 +10,7 @@ One main takeaway was on trust. Trust is personal and intuitive, but it is also 
 
 Instead, I will attempt to capture my first-ever Christmas celebration experience. 
 
-The week started with the Royal Institution’s Chemistry of a Candle lecture I attended with Wannes. Wannes made for a really good company, and the lecture was engaging and informative, almost theatrical. It felt like I was attending a magic show, but it was a science lecture.
+The week started with the Royal Institution’s Chemistry of a Candle lecture I attended with Wannes. Wannes made for a really good company, and the lecture was engaging and informative, almost theatrical. It felt like I was attending a magic show, disguised as a science lecture.
 
 
 <img src = "IMG_9324.jpeg">

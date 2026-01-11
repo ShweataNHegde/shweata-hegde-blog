@@ -41,7 +41,7 @@ url = "tags/"
 weight = 10
 
 [[languages.en.menu.main]]
-name = "Assignments"
+name = "Coursework"
 url = "assignments/"
 weight = 7
 
