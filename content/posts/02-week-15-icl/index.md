@@ -9,11 +9,33 @@ Yaay, I think I have had a mostly successful first week of classes. This term co
 Since I also have this new iPad, there is novelty in doing everything: reading, taking notes, writing emails, planning, etc. I recently also discovered the seemless integration between Mac and iPad; I am yet to harness the full power of having two screens, one being touch screen.
 
 ## 2026-01-05
-First day, I made it to class early. Temperatures have dropped significantly, but getting up at 0800 was not as challenging as I anticipated. South Ken and Imperial looked gorgeous with clear blue skies. As soon as I entered class, I received sweet candies from Cat and a new year's card from Wannes (which was very sweet and kind!). I was also so happy to be back with my classmates; I had weirdly started missing them by the end of the break.
+First day, I made it to class early. Temperatures have dropped significantly, but getting up at 0800 was not as challenging as I anticipated. South Ken and Imperial looked gorgeous with clear blue skies. 
+
+<img src = "IMG_9882.jpeg">
+
+_Outside South Kensington Tube Station_
+
+<img src = "IMG_9887.jpeg">
+
+_Queen's Tower_
+
+As soon as I entered class, I received sweet candies from Cat and a new year's card from Wannes (which was very sweet and kind!).
+
+<img src = "wannes-card.jpeg">
+
+_Wannes's Card Featuring Sheep George_
+
+I was also so happy to be back with my classmates; I had weirdly started missing them by the end of the break.
 
 The only class for the day was Policy. I had made thorough notes from my pre-readings, so I felt prepared for the class. Having worked in science communication for a while, almost all conversations have ended in mentioning of need for policy changes: be it to draw more funding, or solve a problem, etc. However, I have never quite sat down to truly understand the appreciate the complexities of the policy landscape. The class is helping me with just that. The lecturer, Vicki, is amazing. She also speaks fast, so I could not really make notes. Her slides are detailed. I have made a summary of the class in a different post.
 
-Post class, some of us from class had lunch together. Wannes, Shweta and I sat for longer chatting. Wannes and I spent more time on figuring out the open chemistry event I might be running with Henry and Peter. We left late afternoon to make our way back home after I got my free hot chocolate. We stopped by at the book store, when I received an email from Imperial reception saying they had found my Oyster card. I went back to Imperial to pick it up. Then, I decided to sit there and work till evening. I did a bunch of admin tasks, and freaked out after getting to know that Flora Graham from Nature Briefing is giving the seminar in the coming week!
+Post class, some of us from class had lunch together. Wannes, Shweta and I sat for longer chatting. Wannes and I spent more time on figuring out the open chemistry event I might be running with Henry and Peter. We left late afternoon to make our way back home after I got my free hot chocolate.
+
+<img src = "IMG_9889.jpeg">
+
+_Free Hot Chocolate_
+
+We stopped by at the book store, when I received an email from Imperial reception saying they had found my Oyster card. I went back to Imperial to pick it up. Then, I decided to sit there and work till evening. I did a bunch of admin tasks, and freaked out after getting to know that Flora Graham from Nature Briefing is giving the seminar in the coming week!
 
 I had a relaxed meal after coming home, re-read the readings from Narrative and went to bed.
 
@@ -26,17 +48,33 @@ Narrative class was next. It was fun; breaking down what narrative really means;
 
 After the break (where Wannes and I showed our identical pig socks to Zhitong), we resumed for the group projects session. Again, expectations were outlines, the groups were formed. I felt nervous about who my team members were going to be. Thankfully, I have a really nice group. Looking forward!
 
-I felt fairly exhausted, came back home and finished _The Accidental Tourist_. Sad that the book ended. Very anti-climatic. Here is a quick review I wrote before I went to bed: 
+I felt fairly exhausted, came back home and finished _The Accidental Tourist_. Sad that the book ended. Very anti-climatic.
+
+<img src = "IMG_9899.jpeg">
+
+_GirlCat Helping Me Finish The Book_
+
+Here is a quick review I wrote before I went to bed:
+
+<img src = "IMG_0135.jpeg">
 
 ## 2026-01-07
 I started the day by discovering some Apple features. I also had the mental health team's call to understand more about my OCD. It was a super super helpful call. Melissa really understood what I was going through it felt like. She listened and asked questions. Having spoken to her, I feel more confident about the support I can get from Imperial and the healthcare system in the UK overall. And talking to Karin about it has helped as well. She is going through a similar process.
 
 I spent the evening at exploring The British Library (although it did have a 40 minute queue to get a reading pass). I went to the humanities section to work. I forget what I did while I was there, but it must have been course work. I spent an hour more at the cafe after getting a hot chocolate. It felt slightly unreal that I was working from The British Library.
 
+<img src = "IMG_9908.jpeg>
+
+_British Library_
+
 ## 2026-01-08
 I spent the morning figuring out to health and deciding whether to switch GPs, as registering with Imperial College Healthcare centre would mean more robust access to mental health facilities. But, giving up a healthcare centre few hundred metres away was also not logical. I got some work done in the morning as I waiting for an assessment call from my current GP. Again, it was useful saying out loud what I have been going through for a while now.
 
 Later in the morning, I left to meet my group project team at Wellcome. It went mostly alright, slightly awkward at first, since the majority of the team seems introverted. But, I think we have really talented people; it's all about finding an idea which allows all of us to play by our strengths. We spent an hour after our meeting exploring some of the galleries, including the one on sign language.
+
+<img src = "IMG_9935.jpeg">
+
+_The Team at Wellcome Collection_
 
 I spent some time in the reading room, mostly doing the mental health stuff and writing to people. I came back home to chat with Peter and submit the abstract to Play The Planet. Dinner and sleep.
 
@@ -54,7 +92,39 @@ We took down the Christmas decorations and went to bed. Taking down decorations,
 ## 2026-01-10
 I spent the morning doing my calendar. It is all colour-coded. It made me feel excited about the next few months again. There are many challenging tasks, but it is going to be fun.
 
-Braving the cold and drizzle, I left to Pimlico to visit Tate Britain with Shweta. Tate Britain has mostly modern art: Impressionist, post-war, surrealist, abstract. Both of us absolutely enjoyed seeing the paintings. One was better than the other; it is hard to pick a favourite. I liked Ophelia, melancholic. I also liked the painting of a random cornerfield. Despite Shweta not liking the abstract art, I really did enjoy seeing exploration geometric shapes. There is something so human about producing art that feels mundane and boring. The process, however, is extremely creative: placing lines, circles, in specific ways to form patterns.
+Braving the cold and drizzle, I left to Pimlico to visit Tate Britain with Shweta. Tate Britain has mostly modern art: Impressionist, post-war, surrealist, abstract. Both of us absolutely enjoyed seeing the paintings. One was better than the other; it is hard to pick a favourite. I liked Ophelia, melancholic. I also liked the painting of a random cornerfield.
 
-Shweta and me had not gone out toge
+<img src = "IMG_0005.jpeg>
+
+_Random Cornerfield_
+
+ Despite Shweta not liking the abstract art, I really did enjoy seeing exploration geometric shapes. There is something so human about producing art that feels mundane and boring. The process, however, is extremely creative: placing lines, circles, in specific ways to form patterns.
+
+<img src = "IMG_9956.jpeg">
+
+_Shweta and Shweata_
+
+<img src = "IMG_0057.jpeg">
+
+_Shweata and Lines_
+
+Shweta and me had not gone out together, despite being the only two Indians in the class. I decided to spend some extra time with her. We walked to Cafe Nero by the river, got some food, went back to the riverside. There, we sat on a bench overlooking Lambeth bridge and London Eye. With the Hot Chocolate providing the warmth, the conversations started to flow. We discussed our mental health problems, family, etc. It was my first time opening up with her, it felt nice. We took some pictures, including the one in front of Big Ben, before I rushed off for Pralay meeting.
+
+<img src = "IMG_0057.jpeg">
+
+_The riverside view_
+
+<img src = "IMG_0079.jpeg">
+
+_Me, Big Ben and London Eye_
+
+Pralay meeting was useful; it was us course-correcting, pulling all the threads together. I was exhausted by the travel, but managed to push through.
+
 ## 2026-01-11
+I made smoothie for the first time! It was not terrible!
+
+<img src = "IMG_0084.jpeg">
+
+_Purple Smoothie_
+
+A rather relaxed day spent reading and co-working with Karin. I spent the afternoon, however, chatting with Anjana and Tanvi. Anjana is an alumni from the course; she gave useful suggestions on dissertation and group project. I felt like I had direction after speaking to her. Not a headless chicken anymore.
