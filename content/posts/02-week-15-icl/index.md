@@ -43,8 +43,18 @@ I spent some time in the reading room, mostly doing the mental health stuff and 
 I have picked up a new book: Self Defence by Prof. Daniel M. Davis. Interesting read so far on some of the common myths about immmune system. I primarily picked up the book because I know the author. His book, The Beautiful Cure, was one of the first science books I ever read. And, now I figured out that he is a professor at Imperial! I might be able to attend his talk later this month!
 
 ## 2026-01-09
+After spending the morning at home, I left to The Wellcome Library in the afternoon. Read Felicity's Narrative handout. It was more dense than I had anticipated. I managed to get through half. I also had to take breaks between reading to switch my GP from Brixton to Imperial College Healthcare Centre. Hopefully, this should help with my mental health diagnosis.
 
-Left to The Wellcome Library; did some readings and wrote to people. I came back home for yet another relaxed dinner and slept.
+I also had a cold-message from Shardul, whom I had met at the Curiosity Conference. It was so uplifiting to talk to him; the fact that he remembers me despite having met briefly only twice.
+
+I left home for Isley's birthday dinner with Karin, Dan and Isley's friends. Light-hearted banter and Thai food. It filled my tummy and soul.
+
+We took down the Christmas decorations and went to bed. Taking down decorations, or aftermath of any celebration, feels so uneventful. Nobody talks about closure, but it is so important to mark an end.
 
 ## 2026-01-10
+I spent the morning doing my calendar. It is all colour-coded. It made me feel excited about the next few months again. There are many challenging tasks, but it is going to be fun.
+
+Braving the cold and drizzle, I left to Pimlico to visit Tate Britain with Shweta. Tate Britain has mostly modern art: Impressionist, post-war, surrealist, abstract. Both of us absolutely enjoyed seeing the paintings. One was better than the other; it is hard to pick a favourite. I liked Ophelia, melancholic. I also liked the painting of a random cornerfield. Despite Shweta not liking the abstract art, I really did enjoy seeing exploration geometric shapes. There is something so human about producing art that feels mundane and boring. The process, however, is extremely creative: placing lines, circles, in specific ways to form patterns.
+
+Shweta and me had not gone out toge
 ## 2026-01-11
