@@ -94,7 +94,7 @@ I spent the morning doing my calendar. It is all colour-coded. It made me feel e
 
 Braving the cold and drizzle, I left to Pimlico to visit Tate Britain with Shweta. Tate Britain has mostly modern art: Impressionist, post-war, surrealist, abstract. Both of us absolutely enjoyed seeing the paintings. One was better than the other; it is hard to pick a favourite. I liked Ophelia, melancholic. I also liked the painting of a random cornerfield.
 
-<img src = "IMG_0005.jpeg>
+<img src = "IMG_0005.jpeg">
 
 _Random Cornerfield_
 
@@ -104,7 +104,7 @@ _Random Cornerfield_
 
 _Shweta and Shweata_
 
-<img src = "IMG_0057.jpeg">
+<img src = "IMG_0084.jpeg">
 
 _Shweata and Lines_
 
@@ -123,7 +123,7 @@ Pralay meeting was useful; it was us course-correcting, pulling all the threads 
 ## 2026-01-11
 I made smoothie for the first time! It was not terrible!
 
-<img src = "IMG_0084.jpeg">
+<img src = "IMG_0090.jpeg">
 
 _Purple Smoothie_
 
