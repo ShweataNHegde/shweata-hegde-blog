@@ -51,3 +51,6 @@ After lunch, I left for my vaccine appointment. I was nervous, but there was no 
 I came back to Imperial, worked on the grouped project proposal before attending the online Science Communication Open Day.
 
 After a dose of hot chocolate and reading, I left to home to rest. I surprisingly felt alright the whole night.
+
+## Saturday and Sunday
+Reading, recovery, catching-up with friends.
