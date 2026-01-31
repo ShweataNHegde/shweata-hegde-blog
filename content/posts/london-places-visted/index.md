@@ -59,7 +59,21 @@ I have seen more of London than any other city. Cambridge comes close second. He
 9. [Popular attraction] Cambridge Botanic Gardens, Cambridge
 10. [Museum] The Wellcome Collection
 11. [Popular Attraction] Southbank Christmas Market
-12. [Pouplar Attraction] Trafalgar Square
+12. [Popular Attraction] Trafalgar Square
 13. [Popular Attraction] Regent Street
 14. [Popular Attraction]Covent Garden
 15. [Popular Attraction] Battersea Power Station
+
+## January 2026
+1. [Popular Attraction] Leicester Square Christmas Market
+2. [Popular Attraction] National Gallery, Trafalgar Square
+3. [Food] The Old Orchard, Greenford
+4. [Library] British Library, Kings Cross
+5. [Museum] Tate Britain, Pimlico
+6. [Food] San Marino, Brixton
+7. [Educational Institutions] Imperial College London, White City
+8. [Misc] Goodenough College
+9. [Misc] The Vue, Leicester Square
+10. [Popular Attraction] Canary Wharf Winter Lights, Canary Wharf
+11. [SciComm]The Royal Society
+12. [SciComm] Science Gallery London, King's College London
