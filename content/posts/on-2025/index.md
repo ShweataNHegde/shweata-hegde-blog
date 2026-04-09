@@ -10,7 +10,7 @@ Professionally, I have achieved my biggest milestone yet: studying Master's in t
 
 My professional path has been nothing but rosy. Sleepless nights, headache-y evenings, 15-hour days, constant stress and anxiety, uncertainty, long waits, family pressure, blood, sweat, tears. Only the closest know the hard work and sacrifices. Personally, life has been chaotic. Missed birthdays, growing distance from old friends, failed relationships, missed outings and socials, growing tension with family. Physical health took a big toll. Every other month I was sick with something. Mental health tanked big time. OCD has progressively become worse to a point that interfered considerably with professional life.
 
-Overall, 2025 was a very unstable year. Highest highs, lowest lows. I would have had a brilliant day professionally, but would come back home and cry, not being able to cook because of obssesive thinking.
+Overall, 2025 was a very unstable year. Highest highs, lowest lows. I would have had a brilliant day professionally, but would come back home and cry, not being able to cook because of obsessive thinking.
 
 Anyway, last few days of 2025, I was finally able to soak in some of the joy of my accomplishments. I was somewhat healthy, well-fed. I explored four different Christmas market, seeing so much of London. I am grateful to be here in a big city by myself, living with Karin and Dan, two lovely cats. Not many 24-year-olds from a small town in India get to live this life.
 
