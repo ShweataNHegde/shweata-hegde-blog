@@ -77,3 +77,51 @@ I have seen more of London than any other city. Cambridge comes close second. He
 10. [Popular Attraction] Canary Wharf Winter Lights, Canary Wharf
 11. [SciComm]The Royal Society
 12. [SciComm] Science Gallery London, King's College London
+
+## February 2026
+1. Senate House Library
+2. V&A Museum
+3. Indian High Commission
+4. The Anchor, Southwark
+5. Imperial War Museum
+
+## March 2026
+1. Courtauld Gallery
+2. Kew Gardens
+3. Scott Polar Research Institute
+4. The British Museum
+5. National Portrait Gallery
+6. Somerset House
+
+## April 2026
+1. Sir John Soane's Museum
+2. Tate Modern
+3. Brighton Beach
+4. The Royal Pavillion Garden
+5. The Blue Man
+6. Flander House
+7. Edinburgh Cafe
+8. National Gallery of Scotland
+9. Currie
+10. Soul Vegan
+11. St. Giles Church
+12. Dean's Village
+13. National Gallery of Scotland
+14. Graveyard
+15. Usher Hall
+16. Pentland Hills
+17. National Library
+18. China Town
+19. Dulwich Gallery
+20. York City Centre
+21. York Minister
+22. Regents Park
+23. Primrose Hill
+
+## May 2026
+1. Wallace Collection
+2. Brixton Windmill
+3. Brockwell Park
+4. Maureen's Place
+5. Herne Hill
+
