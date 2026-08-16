@@ -125,3 +125,11 @@ I have seen more of London than any other city. Cambridge comes close second. He
 4. Maureen's Place
 5. Herne Hill
 
+
+
+## June 2026
+
+## July 2026
+- Belgium
+- France
+
