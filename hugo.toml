@@ -111,5 +111,5 @@ noClasses = false
 [services.instagram]
 disableInlineCSS = true
 
-[services.twitter]
+[services.x]
 disableInlineCSS = true
