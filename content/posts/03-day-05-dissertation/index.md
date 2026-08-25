@@ -2,7 +2,7 @@
 author: ["Shweata N. Hegde"]
 title: "Day 05| Dissertation"
 date: "2026-08-20"
-tags: ["london"]
+tags: ["dissertation"]
 ---
 0858.
 

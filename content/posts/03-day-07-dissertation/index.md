@@ -2,7 +2,7 @@
 author: ["Shweata N. Hegde"]
 title: "Day 08 | Dissertation"
 date: "2026-08-23"
-tags: ["london"]
+tags: ["dissertation"]
 ---
 I slogged through Friday, but I managed to transcribe the focus group. Having listened to the whole recording , I felt it was less rich than I thought it was. But, there are useful insights especially in the beginning about keeping a reflection journal/diary (I need to figure out what my terminology is).
 
