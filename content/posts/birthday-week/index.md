@@ -39,6 +39,9 @@ _In front of London Eye before I turned 25_
 
 ## 2026-11-11 (Wednesday): The day I turned 25
 Although I made it a point to go to bed in time, I could not sleep at all at night. I read almost all birthday messages as soon as they were sent (classic!). As a result, I woke up tired and late for my birthday breakfast. I still find it funny that Dan and I were born on the same day. We had a joint breakfast together. I got two presents: Cat Stories from Everyman's Library Pocket Classics Series and a cat bookmark.
+<img src = "girl-cat-me-breakfast">
+
+_GirlCat, Me, and Croissants_
 
 <img src = "IMG_1261.jpeg">
 
