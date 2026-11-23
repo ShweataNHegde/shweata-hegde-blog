@@ -98,6 +98,10 @@ Adrenaline took over nervousness; I think I did a good job with my slides. My sl
 
 I also had a few activities planned; they went alright.
 
+<img src = "social-media-workshop.jpeg">
+
+_Mixer_
+
 The Oxford Society for Science Communication and Engagement's president discussed ABT statements and framework for strategic communication, both delivered very well!
 
 I was pleased with myself and the team for pulling together this workshop where we brought together folks from Imperial, Oxford and UCL. Looking forward to seeing where we go from here!
@@ -113,8 +117,13 @@ I was exhausted and in pain, but I had to show up to my own afternoon tea. Karin
 
 _Joint birthday cake_
 
+<img src = 'birthday-boy-and-girl.jpeg'>
+
+_Me and Dan before cutting our cake_
+
+
 <img src = "IMG_1414.jpeg">
 
-_Cheersing my way into being 25_
+_Afternoon Tea party_
 
 I fell asleep reading the newspaper.
