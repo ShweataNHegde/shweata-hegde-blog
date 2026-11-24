@@ -47,15 +47,15 @@ _GirlCat, Me, and Croissants_
 
 _My birthday presents_
 
-Soon after, I left home to visit Dulwich Picture Gallery to see Hokusai's exhibition. The rainy wet day was made worse by P4 bus never arriving after having waited for half an hour. I had to take a different bus and as a consequence was late by 30 minutes. However, the staff did not make a fuss about it; so all good.
+Soon after, I left home to visit Dulwich Picture Gallery to see Hokusai's exhibition. The rainy wet day was made worse by P4 bus never arriving after having waited for half an hour. I had to take a different bus and walk some distance. However, the staff did not make a fuss about me being late; so all good.
 
-I had a fantastic time at the gallery. Hokusai's _36 view of mount fuji_ was fascinating; his detailed prints gave me a glimpse of life  and landscape around Mt. Fuji in the 18th century. His famous print, _The Great Wave_, resonated with me the most. The uncertainty of the boat surviving the great wave captures how I feel at the moment about my own life and where the world is headed (sorry, I know it's a broad brush stroke statement).
+I had a fantastic time at the gallery. Hokusai's _36 views of Mount Fuji_ was fascinating; his detailed prints gave me a glimpse of life  and landscape around Mt. Fuji in the 18th century. His famous print, _The Great Wave_, resonated with me the most. The uncertainty of the boat surviving the great wave captures how I feel at the moment about my own life and where the world is headed (sorry, I know it's a broad brush stroke statement).
 
 <img src = "IMG_1276.jpeg">
 
 _The Great Wave_
 
-I came home for lunch. I spent all my afternoon catching up with friends; some I hadn't spoken to for years now. I, then, reluctantly worked on the #semanticClimate poster before heading to my Merhaba, an Eritrean restaurant. Karin introduced me to Ethiopian/Eritrean food earlier this year and now my taste buds light up every time I think about Injera (which is like sour dosa) and all the curries, especially Shiro, the chickpea curry! There could not have been a better way to celebrate the day: dinner with my favourite people (Karin and Dan) at my favourite restaurant.
+I came home for lunch. I spent all my afternoon catching up with friends (and Arushi!); some I hadn't spoken to for years now. I, then, reluctantly worked on the #semanticClimate poster before heading to my Merhaba, an Eritrean restaurant. Karin introduced me to Ethiopian/Eritrean food earlier this year and now my taste buds light up every time I think about Injera (which is like sour dosa) and all the curries, especially Shiro, the chickpea curry! There could not have been a better way to celebrate the day: dinner with my favourite people (Karin and Dan) at my favourite restaurant.
 
 <img src = "IMG_1328.jpeg">
 
